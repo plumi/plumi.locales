@@ -1,0 +1,199 @@
+# --- PLEASE EDIT THE LINES BELOW CORRECTLY ---
+# SOME DESCRIPTIVE TITLE.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2009-08-12 01:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: plumi\n"
+
+#: ./content/plumicallout.py:66
+msgid "Body Text"
+msgstr ""
+
+#: ./content/plumicallout.py:78
+msgid "Categories. Hold down CTRL/COMMAND and click to multiple select topics."
+msgstr ""
+
+#: ./content/plumicallout.py:77
+msgid "Category"
+msgstr ""
+
+#: ./content/plumicallout.py:91
+msgid "Closing Date"
+msgstr ""
+
+#: ./content/plumivideo.py:172
+msgid "Country of origin of the video"
+msgstr ""
+
+#: ./content/plumivideo.py:44
+msgid "Date Produced"
+msgstr ""
+
+#: ./content/plumivideo.py:133
+msgid "Director"
+msgstr ""
+
+#: ./content/plumivideo.py:66
+msgid "Distributor"
+msgstr ""
+
+#: ./content/plumivideo.py:56
+msgid "Full Description"
+msgstr ""
+
+#: ./content/plumicallout.py:41
+msgid "Image"
+msgstr ""
+
+#: ./content/plumicallout.py:54
+msgid "Image caption"
+msgstr ""
+
+#: ./content/plumivideo.py:145
+msgid "Producer"
+msgstr "Produksi"
+
+#: ./content/plumivideo.py:120
+msgid "Producer Email Address"
+msgstr ""
+
+#: ./content/plumivideo.py:108
+msgid "Producer Mailing Address"
+msgstr ""
+
+#: ./content/plumivideo.py:88
+msgid "Production Company Name"
+msgstr ""
+
+#: ./content/plumivideo.py:98
+msgid "Project Name"
+msgstr ""
+
+#: ./content/plumicallout.py:92
+msgid "Provide a date for when this callout will be closed."
+msgstr ""
+
+#: ./content/plumivideo.py:134
+msgid "The Director of the video content"
+msgstr ""
+
+#: ./content/plumivideo.py:67
+msgid "The Distributor of the video content"
+msgstr ""
+
+#: ./content/plumivideo.py:146
+msgid "The Producer of the video content"
+msgstr ""
+
+#: ./content/plumivideo.py:121
+msgid "The Producer's email address"
+msgstr ""
+
+#: ./content/plumivideo.py:109
+msgid "The Producer's mailing address"
+msgstr ""
+
+#: ./content/plumivideo.py:173
+msgid "The associated country of origin of the video content"
+msgstr ""
+
+#: ./content/plumivideo.py:34
+msgid "The caption for the thumbnail image."
+msgstr ""
+
+#: ./content/plumivideo.py:45
+msgid "The date the video content was released."
+msgstr ""
+
+#: ./content/plumivideo.py:57
+msgid "The description of the video content"
+msgstr ""
+
+#: ./content/plumivideo.py:198
+msgid "The genre of the video"
+msgstr ""
+
+#: ./content/plumicallout.py:67
+msgid "The main description for the callout"
+msgstr ""
+
+#: ./interfaces/plumicallout.py:34
+msgid "The main text content"
+msgstr ""
+
+#: ./interfaces/plumicallout.py:22
+msgid "The text caption describing the image"
+msgstr ""
+
+#: ./content/plumicallout.py:55
+msgid "The text caption describing the image."
+msgstr ""
+
+#: ./content/plumivideo.py:158
+msgid "The thumbnail image for the video content"
+msgstr ""
+
+#: ./content/plumivideo.py:215
+msgid "The uploaded video file"
+msgstr ""
+
+#: ./content/plumivideo.py:185
+msgid "The video categories - select as many as applicable."
+msgstr ""
+
+#: ./content/plumivideo.py:77
+msgid "The website URL for the video content"
+msgstr ""
+
+#: ./content/plumivideo.py:33
+msgid "Thumbnail Image description"
+msgstr ""
+
+#: ./content/plumivideo.py:184
+msgid "Video Categories"
+msgstr ""
+
+#: ./content/plumivideo.py:214
+msgid "Video File"
+msgstr ""
+
+#: ./content/plumivideo.py:197
+msgid "Video Genre"
+msgstr ""
+
+#: ./content/plumivideo.py:157
+msgid "Video Thumbnail"
+msgstr ""
+
+#: ./interfaces/plumivideo.py:80
+msgid "Vidoe Thumbnail"
+msgstr ""
+
+#: ./content/plumicallout.py:30
+msgid "Website Address"
+msgstr ""
+
+#: ./content/plumivideo.py:76
+msgid "Website URL"
+msgstr ""
+
+#: ./content/plumicallout.py:31
+msgid "Website for more info about the callout"
+msgstr ""
+
+#: ./content/plumicallout.py:42
+msgid "Will be shown in the call out listings, and the call out item itself. Image will be scaled to a sensible size."
+msgstr ""
+
