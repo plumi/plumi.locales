@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2009-08-12 01:34+0000\n"
+"POT-Creation-Date: 2009-08-26 02:23+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,183 +17,415 @@ msgstr ""
 "Preferred-Encodings: utf-8 latin1\n"
 "Domain: plumi\n"
 
-#: ./content/plumicallout.py:66
+#: ../../../plumi.app/plumi/app/vocabs.py:25
+msgid "Activism"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:33
+msgid "Animal Rights"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:42
+msgid "Animation"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:22
+msgid "Art / Culture"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:55
+msgid "Art Prize"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:28
+msgid "Biodiversity"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:35
+msgid "Biotech"
+msgstr ""
+
+#: ../../../plumi.content/plumi/content/content/plumicallout.py:66
 msgid "Body Text"
 msgstr ""
 
-#: ./content/plumicallout.py:78
+#: ../../../plumi.app/plumi/app/install.py:325
+msgid "Browse Content"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/install.py:501
+msgid "Call Outs"
+msgstr ""
+
+#: ../../../plumi.content/plumi/content/content/plumicallout.py:78
 msgid "Categories. Hold down CTRL/COMMAND and click to multiple select topics."
 msgstr ""
 
-#: ./content/plumicallout.py:77
+#: ../../../plumi.content/plumi/content/content/plumicallout.py:77
 msgid "Category"
 msgstr ""
 
-#: ./content/plumicallout.py:91
+#: ../../../plumi.app/plumi/app/vocabs.py:36
+msgid "Civil Liberties"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:29
+msgid "Climate Change"
+msgstr ""
+
+#: ../../../plumi.content/plumi/content/content/plumicallout.py:92
 msgid "Closing Date"
 msgstr ""
 
-#: ./content/plumivideo.py:172
+#: ../../../plumi.app/plumi/app/vocabs.py:54
+msgid "Competition"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:51
+msgid "Conference"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:15
+msgid "Consumerism"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:11
+msgid "Corporations / Privatisation"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/install.py:451
+msgid "Countries"
+msgstr ""
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:172
 msgid "Country of origin of the video"
 msgstr ""
 
-#: ./content/plumivideo.py:44
+#: ../../../plumi.app/plumi/app/vocabs.py:53
+msgid "Crew"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:49
+msgid "DVD"
+msgstr ""
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:44
 msgid "Date Produced"
 msgstr ""
 
-#: ./content/plumivideo.py:133
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:133
 msgid "Director"
 msgstr ""
 
-#: ./content/plumivideo.py:66
+#: ../../../plumi.app/plumi/app/vocabs.py:18
+msgid "Disability Rights"
+msgstr ""
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:66
 msgid "Distributor"
 msgstr ""
 
-#: ./content/plumivideo.py:56
+#: ../../../plumi.app/plumi/app/vocabs.py:39
+msgid "Documentary"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:27
+msgid "Education"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:56
+msgid "Exhibition"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:40
+msgid "Experimental"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/install.py:228
+msgid "Featured Videos"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:47
+msgid "Festival"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:41
+msgid "Fiction"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:30
+msgid "Forests / Conservation"
+msgstr ""
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:56
 msgid "Full Description"
 msgstr ""
 
-#: ./content/plumicallout.py:41
+#: ../../../plumi.app/plumi/app/vocabs.py:19
+msgid "Gender / Sexuality"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:12
+msgid "Globalisation"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:10
+msgid "Health"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:17
+msgid "Human Rights"
+msgstr ""
+
+#: ../../../plumi.content/plumi/content/content/plumicallout.py:41
 msgid "Image"
 msgstr ""
 
-#: ./content/plumicallout.py:54
+#: ../../../plumi.content/plumi/content/content/plumicallout.py:54
 msgid "Image caption"
 msgstr ""
 
-#: ./content/plumivideo.py:145
+#: ../../../plumi.app/plumi/app/vocabs.py:8
+msgid "Indigenous"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:23
+msgid "Internet"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/install.py:234
+msgid "Latest Videos"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/install.py:241
+msgid "Latest news and events on the site."
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/install.py:235
+msgid "Latest videos contributed by the users."
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:13
+msgid "Law / Justice"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:24
+msgid "Media"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:43
+msgid "Music"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:44
+msgid "News Report"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/install.py:240
+msgid "News and Events"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:31
+msgid "Nuclear"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:57
+msgid "Other"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:26
+msgid "Politics"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:7
+msgid "Poverty / Development"
+msgstr ""
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:145
 msgid "Producer"
 msgstr ""
 
-#: ./content/plumivideo.py:120
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:120
 msgid "Producer Email Address"
 msgstr ""
 
-#: ./content/plumivideo.py:108
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:108
 msgid "Producer Mailing Address"
 msgstr ""
 
-#: ./content/plumivideo.py:88
+#: ../../../plumi.app/plumi/app/vocabs.py:50
+msgid "Production"
+msgstr ""
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:88
 msgid "Production Company Name"
 msgstr ""
 
-#: ./content/plumivideo.py:98
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:98
 msgid "Project Name"
 msgstr ""
 
-#: ./content/plumicallout.py:92
+#: ../../../plumi.content/plumi/content/content/plumicallout.py:93
 msgid "Provide a date for when this callout will be closed."
 msgstr ""
 
-#: ./content/plumivideo.py:134
+#: ../../../plumi.app/plumi/app/vocabs.py:20
+msgid "Race"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:9
+msgid "Refugee / Migration"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:21
+msgid "Religion"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:48
+msgid "Screening"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:32
+msgid "Sustainability"
+msgstr ""
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:134
 msgid "The Director of the video content"
 msgstr ""
 
-#: ./content/plumivideo.py:67
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:67
 msgid "The Distributor of the video content"
 msgstr ""
 
-#: ./content/plumivideo.py:146
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:146
 msgid "The Producer of the video content"
 msgstr ""
 
-#: ./content/plumivideo.py:121
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:121
 msgid "The Producer's email address"
 msgstr ""
 
-#: ./content/plumivideo.py:109
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:109
 msgid "The Producer's mailing address"
 msgstr ""
 
-#: ./content/plumivideo.py:173
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:173
 msgid "The associated country of origin of the video content"
 msgstr ""
 
-#: ./content/plumivideo.py:34
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:34
 msgid "The caption for the thumbnail image."
 msgstr ""
 
-#: ./content/plumivideo.py:45
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:45
 msgid "The date the video content was released."
 msgstr ""
 
-#: ./content/plumivideo.py:57
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:57
 msgid "The description of the video content"
 msgstr ""
 
-#: ./content/plumivideo.py:198
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:200
 msgid "The genre of the video"
 msgstr ""
 
-#: ./content/plumicallout.py:67
+#: ../../../plumi.content/plumi/content/content/plumicallout.py:67
 msgid "The main description for the callout"
 msgstr ""
 
-#: ./interfaces/plumicallout.py:34
+#: ../../../plumi.content/plumi/content/interfaces/plumicallout.py:34
 msgid "The main text content"
 msgstr ""
 
-#: ./interfaces/plumicallout.py:22
+#: ../../../plumi.content/plumi/content/interfaces/plumicallout.py:22
 msgid "The text caption describing the image"
 msgstr ""
 
-#: ./content/plumicallout.py:55
+#: ../../../plumi.content/plumi/content/content/plumicallout.py:55
 msgid "The text caption describing the image."
 msgstr ""
 
-#: ./content/plumivideo.py:158
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:158
 msgid "The thumbnail image for the video content"
 msgstr ""
 
-#: ./content/plumivideo.py:215
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:218
 msgid "The uploaded video file"
 msgstr ""
 
-#: ./content/plumivideo.py:185
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:186
 msgid "The video categories - select as many as applicable."
 msgstr ""
 
-#: ./content/plumivideo.py:77
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:77
 msgid "The website URL for the video content"
 msgstr ""
 
-#: ./content/plumivideo.py:33
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:33
 msgid "Thumbnail Image description"
 msgstr ""
 
-#: ./content/plumivideo.py:184
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:185
 msgid "Video Categories"
 msgstr ""
 
-#: ./content/plumivideo.py:214
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:217
 msgid "Video File"
 msgstr ""
 
-#: ./content/plumivideo.py:197
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:199
 msgid "Video Genre"
 msgstr ""
 
-#: ./content/plumivideo.py:157
+#: ../../../plumi.app/plumi/app/install.py:346
+msgid "Video Genres"
+msgstr ""
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:157
 msgid "Video Thumbnail"
 msgstr ""
 
-#: ./interfaces/plumivideo.py:80
+#: ../../../plumi.app/plumi/app/install.py:397
+msgid "Video Topics"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/install.py:229
+msgid "Videos featured by the editorial team."
+msgstr ""
+
+#: ../../../plumi.content/plumi/content/interfaces/plumivideo.py:80
 msgid "Vidoe Thumbnail"
 msgstr ""
 
-#: ./content/plumicallout.py:30
+#: ../../../plumi.app/plumi/app/vocabs.py:16
+msgid "War / Peace"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:34
+msgid "Water"
+msgstr ""
+
+#: ../../../plumi.content/plumi/content/content/plumicallout.py:30
 msgid "Website Address"
 msgstr ""
 
-#: ./content/plumivideo.py:76
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:76
 msgid "Website URL"
 msgstr ""
 
-#: ./content/plumicallout.py:31
+#: ../../../plumi.content/plumi/content/content/plumicallout.py:31
 msgid "Website for more info about the callout"
 msgstr ""
 
-#: ./content/plumicallout.py:42
+#: ../../../plumi.content/plumi/content/content/plumicallout.py:42
 msgid "Will be shown in the call out listings, and the call out item itself. Image will be scaled to a sensible size."
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:14
+msgid "Work"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/vocabs.py:52
+msgid "Workshop"
 msgstr ""
 
