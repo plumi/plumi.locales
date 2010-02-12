@@ -1,669 +1,668 @@
-# --- PLEASE EDIT THE LINES BELOW CORRECTLY ---
-# SOME DESCRIPTIVE TITLE.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2009-08-28 04:17+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Project-Id-Version: Plumi\n"
+"POT-Creation-Date: 2009-08-28 04:22+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Isnu Suntoro <isnusun@gmail.com>\n"
+"Language-Team: Isnu Suntoro <isnusun@gmail.com>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0\n"
-"Language-Code: en\n"
-"Language-Name: English\n"
-"Preferred-Encodings: utf-8 latin1\n"
-"Domain: plumi\n"
+"X-Poedit-Language: Indonesian\n"
+"X-Poedit-Country: INDONESIA\n"
 
 #. Default: "${location}, from ${start} to ${end}"
 #: ../../../plumi.skin/plumi/skin/browser/templates/featured.pt:111
 msgid "${location}, from ${start} to ${end}"
-msgstr "${location}, dari ${start} ke ${end}"
+msgstr "${location}, dari ${start} sampai dengan ${end}"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:27
 msgid "Activism"
-msgstr ""
+msgstr "Aktivis"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:35
 msgid "Animal Rights"
-msgstr ""
+msgstr "Hak-hak Binatang"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:44
 msgid "Animation"
-msgstr ""
+msgstr "Animasi"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:24
 msgid "Art / Culture"
-msgstr ""
+msgstr "Seni / Budaya"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:57
 msgid "Art Prize"
-msgstr ""
+msgstr "Hadiah Seni"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:30
 msgid "Biodiversity"
-msgstr ""
+msgstr "Keanekaragaman Hayati"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:37
 msgid "Biotech"
-msgstr ""
+msgstr "Teknologi Hayati"
 
 #: ../../../plumi.content/plumi/content/content/plumicallout.py:76
 msgid "Body Text"
-msgstr ""
+msgstr "Badan Teks"
 
 #: ../../../plumi.app/plumi/app/install.py:175
 msgid "Bougainville"
-msgstr ""
+msgstr "Bogenvile"
 
 #: ../../../plumi.app/plumi/app/install.py:305
 msgid "Browse Content"
-msgstr ""
+msgstr "Jelajah Konten"
 
 #: ../../../plumi.app/plumi/app/install.py:182
 msgid "Burma"
-msgstr ""
+msgstr "Burma"
 
 #. Default: "Call Out!"
 #: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:57
 msgid "Call Out!"
-msgstr ""
+msgstr "Pengumuman!"
 
 #: ../../../plumi.app/plumi/app/install.py:449
 msgid "Call Outs"
-msgstr ""
+msgstr "Pengumuman"
 
 #. Default: "Categories"
-#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:64
+#: ../../../plumi.skin/plumi/skin/browser/templates/video_brain.pt:57
 msgid "Categories"
-msgstr ""
+msgstr "Kategori"
 
 #: ../../../plumi.content/plumi/content/content/plumicallout.py:88
 msgid "Categories. Hold down CTRL/COMMAND and click to multiple select topics."
-msgstr ""
+msgstr "Kategori. Tekan Ctrl/Command dan klik untuk memilih lebih dari satu topik."
 
 #: ../../../plumi.content/plumi/content/content/plumicallout.py:87
 msgid "Category"
-msgstr ""
+msgstr "Kategori"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:38
 msgid "Civil Liberties"
-msgstr ""
+msgstr "Kebebasan Masyarakat Sipil"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:31
 msgid "Climate Change"
-msgstr ""
+msgstr "Perubahan Iklim"
 
 #: ../../../plumi.content/plumi/content/content/plumicallout.py:101
 msgid "Closing Date"
-msgstr ""
+msgstr "Tanggal Penutupan"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:56
 msgid "Competition"
-msgstr ""
+msgstr "Kompetisi"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:53
 msgid "Conference"
-msgstr ""
+msgstr "Konferensi"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:17
 msgid "Consumerism"
-msgstr ""
+msgstr "Konsumerisme"
 
 #. Default: "Contact"
 #: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:140
 msgid "Contact"
-msgstr ""
+msgstr "Kontak"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:13
 msgid "Corporations / Privatisation"
-msgstr ""
+msgstr "Korporasi / Swastanisasi"
 
 #: ../../../plumi.app/plumi/app/install.py:406
 msgid "Countries"
-msgstr ""
+msgstr "Negara-negara"
 
 #. Default: "Country"
-#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:100
+#: ../../../plumi.skin/plumi/skin/browser/templates/video_brain.pt:75
 msgid "Country"
-msgstr ""
+msgstr "Negara"
 
 #: ../../../plumi.content/plumi/content/content/plumivideo.py:172
 msgid "Country of origin of the video"
-msgstr ""
+msgstr "Negara asal video"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:55
 msgid "Crew"
-msgstr ""
+msgstr "Kru"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:51
 msgid "DVD"
-msgstr ""
+msgstr "DVD"
 
 #: ../../../plumi.content/plumi/content/content/plumivideo.py:44
 msgid "Date Produced"
-msgstr ""
+msgstr "Tanggal Pembuatan"
 
 #. Default: "Directed by"
 #: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:131
 msgid "Directed by"
-msgstr ""
+msgstr "Diarahkan oleh"
 
 #: ../../../plumi.content/plumi/content/content/plumivideo.py:133
 msgid "Director"
-msgstr ""
+msgstr "Pengarah"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:20
 msgid "Disability Rights"
-msgstr ""
+msgstr "Hak Cacat"
 
 #. Default: "Distributor"
 #: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:181
 msgid "Distributor"
-msgstr ""
+msgstr "Penyalur"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:41
 msgid "Documentary"
-msgstr ""
+msgstr "Dokumenter"
 
 #. Default: "Download Hi-Res / Screening Version"
 #: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:253
 msgid "Download Hi-Res / Screening Version"
-msgstr ""
+msgstr "Unduh Resolusi Tinggi/Versi Layar"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:29
 msgid "Education"
-msgstr ""
+msgstr "Pendidikan"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:58
 msgid "Exhibition"
-msgstr ""
+msgstr "Pameran"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:42
 msgid "Experimental"
-msgstr ""
+msgstr "Percobaan"
 
 #. Default: "Featured Video"
 #: ../../../plumi.skin/plumi/skin/browser/templates/featured.pt:31
 msgid "Featured Video"
-msgstr ""
+msgstr "Video Unggulan"
 
 #: ../../../plumi.app/plumi/app/install.py:209
 msgid "Featured Videos"
-msgstr ""
+msgstr "Video-video Unggulan"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:49
 msgid "Festival"
-msgstr ""
+msgstr "Festival"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:43
 msgid "Fiction"
-msgstr ""
+msgstr "Fiksi"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:32
 msgid "Forests / Conservation"
-msgstr ""
+msgstr "Hutan / Konservasi"
 
 #: ../../../plumi.content/plumi/content/content/plumivideo.py:56
 msgid "Full Description"
-msgstr ""
+msgstr "Keterangan Lengkap"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:21
 msgid "Gender / Sexuality"
-msgstr ""
+msgstr "Jender / Seksualitas"
 
 #. Default: "Genres"
 #: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:46
 msgid "Genres"
-msgstr ""
+msgstr "Genre"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:14
 msgid "Globalisation"
-msgstr ""
+msgstr "Globalisasi"
 
 #: ../../../plumi.app/plumi/app/install.py:174
 msgid "Hawaii"
-msgstr ""
+msgstr "Hawaii"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:12
 msgid "Health"
-msgstr ""
+msgstr "Kesehatan"
 
 #. Default: "Home page"
 #: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:149
 msgid "Home page"
-msgstr ""
+msgstr "Laman depan"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:19
 msgid "Human Rights"
-msgstr ""
+msgstr "Hak-hak Asasi Manusia"
 
 #: ../../../plumi.content/plumi/content/content/plumicallout.py:51
 msgid "Image"
-msgstr ""
+msgstr "Gambar"
 
 #: ../../../plumi.content/plumi/content/content/plumicallout.py:64
 msgid "Image caption"
-msgstr ""
+msgstr "Judul gambar"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:10
 msgid "Indigenous"
-msgstr ""
+msgstr "Pribumi"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:25
 msgid "Internet"
-msgstr ""
+msgstr "Internet"
 
 #. Default: "Keywords"
 #: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:82
 msgid "Keywords"
-msgstr ""
+msgstr "Kata kunci"
 
 #. Default: "Language"
 #: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:159
 msgid "Language"
-msgstr ""
+msgstr "Bahasa"
 
 #: ../../../plumi.app/plumi/app/install.py:183
 msgid "Laos"
-msgstr ""
+msgstr "Laos"
 
 #. Default: "Latest Videos"
 #: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:237
 msgid "Latest Videos"
-msgstr ""
+msgstr "Video Terbaru"
 
 #: ../../../plumi.app/plumi/app/install.py:222
 msgid "Latest news and events on the site."
-msgstr ""
+msgstr "Berita dan peristiwa terbaru dalam situs ini."
 
 #: ../../../plumi.app/plumi/app/install.py:216
 msgid "Latest videos contributed by the users."
-msgstr ""
+msgstr "Video terbaru yang dikirim oleh para pengguna."
 
 #: ../../../plumi.app/plumi/app/vocabs.py:15
 msgid "Law / Justice"
-msgstr ""
+msgstr "Hukum / Keadilan"
 
 #: ../../../plumi.content/plumi/content/content/plumicallout.py:40
 msgid "Location"
-msgstr ""
+msgstr "Lokasi"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:26
 msgid "Media"
-msgstr ""
+msgstr "Media"
 
 #. Default: "More Videos…"
 #: ../../../plumi.skin/plumi/skin/browser/templates/featured.pt:151
 msgid "More Videos&hellip;"
-msgstr ""
+msgstr "Video Lain&hellip;"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:45
 msgid "Music"
-msgstr ""
+msgstr "Musik"
 
 #: ../../../plumi.app/plumi/app/install.py:185
 msgid "NZ-Aotearoa"
-msgstr ""
+msgstr "NZ-Aotearoa"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:46
 msgid "News Report"
-msgstr ""
+msgstr "Laporan Berita"
 
 #. Default: "News and Events"
 #: ../../../plumi.skin/plumi/skin/browser/templates/featured.pt:69
 msgid "News and Events"
-msgstr ""
+msgstr "Berita dan Acara"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:33
 msgid "Nuclear"
-msgstr ""
+msgstr "Nuklir"
 
 #: ../../../plumi.app/plumi/app/install.py:192
 msgid "Oceania"
-msgstr ""
+msgstr "Oceania"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:59
 msgid "Other"
-msgstr ""
+msgstr "Lain"
 
 #. Default: "Play video"
 #: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:204
 msgid "Play video"
-msgstr ""
+msgstr "Putar video"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:28
 msgid "Politics"
-msgstr ""
+msgstr "Politik"
 
 #. Default: "Posted: ${PostedDate}"
 #: ../../../plumi.skin/plumi/skin/browser/templates/featured.pt:85
 msgid "Posted: ${PostedDate}"
-msgstr ""
+msgstr "Dikirim:  ${PostedDate}"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:9
 msgid "Poverty / Development"
-msgstr ""
+msgstr "Kemiskinan / Pembangunan"
 
 #. Default: "Produced"
 #: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:168
 msgid "Produced"
-msgstr ""
+msgstr "Diproduksi"
 
 #. Default: "Produced by"
 #: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:123
 msgid "Produced by"
-msgstr ""
+msgstr "Diproduksi oleh "
 
 #: ../../../plumi.content/plumi/content/content/plumivideo.py:145
 msgid "Producer"
-msgstr "Produksi"
+msgstr "Produser"
 
 #: ../../../plumi.content/plumi/content/content/plumivideo.py:120
 msgid "Producer Email Address"
-msgstr ""
+msgstr "Alamat Email Produser"
 
 #: ../../../plumi.content/plumi/content/content/plumivideo.py:108
 msgid "Producer Mailing Address"
-msgstr ""
+msgstr "Alamat Surat Produser"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:52
 msgid "Production"
-msgstr ""
+msgstr "Produksi"
 
 #. Default: "Production Company"
 #: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:175
 msgid "Production Company"
-msgstr ""
+msgstr "Perusahaan Produksi"
 
 #: ../../../plumi.content/plumi/content/content/plumivideo.py:88
 msgid "Production Company Name"
-msgstr ""
+msgstr "Nama Perusahaan Produksi"
 
 #: ../../../plumi.content/plumi/content/content/plumivideo.py:98
 msgid "Project Name"
-msgstr ""
+msgstr "Nama Proyek"
 
 #: ../../../plumi.content/plumi/content/content/plumicallout.py:102
 msgid "Provide a date for when this callout will be closed."
-msgstr ""
+msgstr "Isikan tanggal kapan panggilan ini akan ditutup."
 
 #. Default: "Publish Event"
 #: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:47
 msgid "Publish Event"
-msgstr ""
+msgstr "Publikasikan Acara"
 
 #. Default: "Publish News"
 #: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:52
 msgid "Publish News"
-msgstr ""
+msgstr "Publikasikan Berita"
 
 #. Default: "Publish Video"
 #: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:37
 msgid "Publish Video"
-msgstr ""
+msgstr "Publikasikan Video"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:22
 msgid "Race"
-msgstr ""
+msgstr "Ras"
+
+#. Default: "Read more…"
+#: ../../../plumi.skin/plumi/skin/browser/templates/video_brain.pt:45
+msgid "Read more&hellip;"
+msgstr "Baca lanjut &hellip;"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:11
 msgid "Refugee / Migration"
-msgstr ""
+msgstr "Pengungsian / Migrasi"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:23
 msgid "Religion"
-msgstr ""
+msgstr "Agama"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:50
 msgid "Screening"
-msgstr ""
+msgstr "Penyaringan"
 
 #: ../../../plumi.app/plumi/app/install.py:188
 msgid "South East Asia"
-msgstr ""
+msgstr "Asia Tenggara"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:34
 msgid "Sustainability"
-msgstr ""
+msgstr "Keberlanjutan"
 
 #: ../../../plumi.content/plumi/content/content/plumivideo.py:134
 msgid "The Director of the video content"
-msgstr ""
+msgstr "Pengarah konten vieo"
 
 #: ../../../plumi.content/plumi/content/content/plumivideo.py:67
 msgid "The Distributor of the video content"
-msgstr ""
+msgstr "Penyalur konten video"
 
 #: ../../../plumi.content/plumi/content/content/plumivideo.py:146
 msgid "The Producer of the video content"
-msgstr ""
+msgstr "Produser konten video"
 
 #: ../../../plumi.content/plumi/content/content/plumivideo.py:121
 msgid "The Producer's email address"
-msgstr ""
+msgstr "Alamat email produser"
 
 #: ../../../plumi.content/plumi/content/content/plumivideo.py:109
 msgid "The Producer's mailing address"
-msgstr ""
+msgstr "Alamat surat produser"
 
 #: ../../../plumi.content/plumi/content/content/plumivideo.py:173
 msgid "The associated country of origin of the video content"
-msgstr ""
+msgstr "Negara asal konten video"
 
 #: ../../../plumi.content/plumi/content/content/plumivideo.py:34
 msgid "The caption for the thumbnail image."
-msgstr ""
+msgstr "Judul untuk thumbnail gambar."
 
 #: ../../../plumi.content/plumi/content/content/plumivideo.py:45
 msgid "The date the video content was released."
-msgstr ""
+msgstr "Tanggal konten video diluncurkan."
 
 #: ../../../plumi.content/plumi/content/content/plumivideo.py:57
 msgid "The description of the video content"
-msgstr ""
+msgstr "Keterangan konten video"
 
 #: ../../../plumi.content/plumi/content/content/plumivideo.py:200
 msgid "The genre of the video"
-msgstr ""
+msgstr "Genre video"
 
 #: ../../../plumi.content/plumi/content/content/plumicallout.py:77
 msgid "The main description for the callout"
-msgstr ""
+msgstr "Keterangan tentang pengumuman"
 
 #: ../../../plumi.content/plumi/content/interfaces/plumicallout.py:41
 msgid "The main text content"
-msgstr ""
+msgstr "Konten teks utama"
 
 #: ../../../plumi.content/plumi/content/interfaces/plumicallout.py:29
 msgid "The text caption describing the image"
-msgstr ""
+msgstr "Teks untuk menjelaskan gambar"
 
 #: ../../../plumi.content/plumi/content/content/plumicallout.py:65
 msgid "The text caption describing the image."
-msgstr ""
+msgstr "Teks untuk menjelaskan gambar."
 
 #: ../../../plumi.content/plumi/content/content/plumivideo.py:158
 msgid "The thumbnail image for the video content"
-msgstr ""
+msgstr "Gambar untuk konten video"
 
 #: ../../../plumi.content/plumi/content/content/plumivideo.py:218
 msgid "The uploaded video file"
-msgstr ""
+msgstr "Berkas video yang diupload"
 
 #: ../../../plumi.content/plumi/content/content/plumivideo.py:186
 msgid "The video categories - select as many as applicable."
-msgstr ""
+msgstr "Kategori video - pilih sebanyak yang sesuai"
 
 #: ../../../plumi.content/plumi/content/content/plumivideo.py:77
 msgid "The website URL for the video content"
-msgstr ""
+msgstr "URL situs web untuk konten video"
 
 #: ../../../plumi.content/plumi/content/content/plumivideo.py:33
 msgid "Thumbnail Image description"
-msgstr ""
+msgstr "Keterangan Thumbnail Gambar"
 
 #. Default: "Transcode Status"
 #: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:284
 msgid "Transcode Status"
-msgstr ""
+msgstr "Status Transcode"
 
 #: ../../../plumi.content/plumi/content/content/plumicallout.py:41
 msgid "Typically a callout has an associated location in a common format (i.e. City, State)"
-msgstr ""
+msgstr "Biasanya suatu pengumuman data lokasinya memiliki format standar (contoh, Kota, Propinsi)"
 
 #: ../../../plumi.content/plumi/content/content/plumivideo.py:185
 msgid "Video Categories"
-msgstr ""
+msgstr "Kategori-kategori Video"
 
 #: ../../../plumi.content/plumi/content/content/plumivideo.py:217
 msgid "Video File"
-msgstr ""
+msgstr "Berkas Video"
 
 #: ../../../plumi.content/plumi/content/content/plumivideo.py:199
 msgid "Video Genre"
-msgstr ""
+msgstr "Genre Video"
 
 #: ../../../plumi.app/plumi/app/install.py:321
 msgid "Video Genres"
-msgstr ""
+msgstr "Genre-genre Video"
 
 #: ../../../plumi.content/plumi/content/content/plumivideo.py:157
 msgid "Video Thumbnail"
-msgstr ""
+msgstr "Thumbnail video"
 
 #: ../../../plumi.app/plumi/app/install.py:359
 msgid "Video Topics"
-msgstr ""
+msgstr "Topik Video"
 
 #. Default: "Video information"
 #: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:116
 msgid "Video information"
-msgstr ""
+msgstr "Informasi Video"
 
 #. Default: "Videos best viewed on VLC player"
 #: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:266
 msgid "Videos best viewed on VLC player"
-msgstr ""
+msgstr "Video ini lebih baik dimainkan dengan menggunakan VLC Player"
 
 #: ../../../plumi.app/plumi/app/install.py:210
 msgid "Videos featured by the editorial team."
-msgstr ""
+msgstr "Video terpilih oleh tim editorial."
 
 #: ../../../plumi.app/plumi/app/install.py:184
 msgid "Vietnam"
-msgstr ""
+msgstr "Vietnam"
 
 #. Default: "View editorial policy"
 #: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:43
 msgid "View editorial policy"
-msgstr ""
+msgstr "Lihat kebijakan editorial"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:18
 msgid "War / Peace"
-msgstr ""
+msgstr "Perang / Damai"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:36
 msgid "Water"
-msgstr ""
+msgstr "Air"
 
 #: ../../../plumi.content/plumi/content/content/plumicallout.py:30
 msgid "Website Address"
-msgstr ""
+msgstr "Alamat Situsweb"
 
 #: ../../../plumi.content/plumi/content/content/plumivideo.py:76
 msgid "Website URL"
-msgstr ""
+msgstr "URL Situsweb"
 
 #: ../../../plumi.content/plumi/content/content/plumicallout.py:31
 msgid "Website for more info about the callout"
-msgstr ""
+msgstr "Situsweb untuk keterangan lebih lengkap tentang pengumuman ini"
 
 #: ../../../plumi.app/plumi/app/install.py:172
 msgid "West Papua"
-msgstr ""
+msgstr "Papua Barat"
 
 #: ../../../plumi.content/plumi/content/content/plumicallout.py:52
 msgid "Will be shown in the call out listings, and the call out item itself. Image will be scaled to a sensible size."
-msgstr ""
+msgstr "Akan ditampilkan dalam daftar pengumuman. Gambar akan diubah ke dalam ukuran yang sewajarnya."
 
 #: ../../../plumi.app/plumi/app/vocabs.py:16
 msgid "Work"
-msgstr ""
+msgstr "Kerja"
 
 #: ../../../plumi.app/plumi/app/vocabs.py:54
 msgid "Workshop"
-msgstr ""
+msgstr "Lokakarya"
 
 #. Default: "If the automatically transcoded movie is corrupted, or poor quality etc. , you may like to <a href=\"${DYNAMIC_CONTENT}\">turn off flowplayer and automatic transcoding.</a>"
 #: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:295
 msgid "cancel_transcoding"
-msgstr ""
+msgstr "batalkan_transcoding"
 
 #. Default: "Copy the following to embed the movie into another web page:"
 #: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:229
 msgid "copy_embed_code"
-msgstr ""
+msgstr "Salin skrip berikut untuk menempelkan video ini ke situs web lain"
 
 #. Default: "There are currently no results for this search."
 #: ../../../plumi.skin/plumi/skin/browser/templates/video_listing.pt:24
 msgid "description_no_items_in_topic"
-msgstr ""
+msgstr "Tidak ditemukan hasil dalam pencarian ini"
 
 #. Default: "Up one level"
 #: ../../../plumi.skin/plumi/skin/browser/templates/video_listing_view.pt:19
 msgid "go_to_parent_url"
-msgstr ""
+msgstr "Ke atas nya"
 
 #. Default: "more info"
 #: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:151
 msgid "more info"
-msgstr ""
+msgstr "info selengkapnya"
 
 #. Default: "This item does not have any body text, click the edit tab to change it."
 #: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:35
 msgid "no_body_text"
-msgstr ""
+msgstr "Item ini punya badan teks, klik pada tab ubah untuk mengubahnya"
 
 #. Default: "Looking for content for a DVD compilation, screening, film festival or crew for a production? Let people know about it by adding a call-out."
 #: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:58
 msgid "publish_callout_blurb"
-msgstr ""
+msgstr "Anda mencari kompilasi DVD, pemutaran film, festival film atau kru untuk produksi film? Sampaikan ke semua orang tentang hal itu dengan menambahkan pengumuman"
 
 #. Default: "List your events such as screenings, film festivals or workshops here."
 #: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:48
 msgid "publish_event_blurb"
-msgstr ""
+msgstr "Daftarkan agenda anda semisal pemutaran film, festival film atau lokakarya disini."
 
 #. Default: "Tell us news about your past and future productions and promote your work."
 #: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:53
 msgid "publish_news_blurb"
-msgstr ""
+msgstr "Sampaikan semua berita tentang produksi anda sebelumnya atau yang akan datang dan promosikan karya anda."
 
 #. Default: "Share your productions by uploading video to ${site_name}. Videos will be automatically submitted for publishing approval."
 #: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:40
 msgid "publish_video_blurb"
-msgstr ""
+msgstr "Berbagi produk anda dengan mengunggah video ke ${site_name}. Video-video akan didaftar secara otomatis untuk persetujuan publikasi."
 
 #. Default: "You may like to try to <a href=\"${DYNAMIC_CONTENT}\">re-start transcoding.</a>"
 #: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:289
 msgid "restart_transcoding"
-msgstr ""
+msgstr "Cobalah untuk <a href=\"${DYNAMIC_CONTENT}\">mengulangi transcoding.</a>"
 
 #. Default: "View larger image"
 #: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:218
 msgid "thumbnail_click_to_enlarge"
-msgstr ""
+msgstr "Lihat gambar yang lebih besar"
 
 #. Default: "RSS2 Syndication"
 #: ../../../plumi.skin/plumi/skin/browser/templates/featured.pt:23
 msgid "title"
-msgstr ""
+msgstr "Sindikasi RSS2"
 
 #. Default: "write the producer"
 #: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:142
 msgid "write the producer"
-msgstr ""
+msgstr "tuliskan produsernya"
 
