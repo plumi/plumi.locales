@@ -1,13 +1,30 @@
 from setuptools import setup, find_packages
 import os
 
-version = '1.0'
+version = '0.1'
+
+def read(*rnames):
+    return open(os.path.join(os.path.dirname(__file__), *rnames)).read()
+
+long_description = (
+    read('README.txt')
+    + '\n' +
+    'Change history\n'
+    '**************\n'
+    + '\n' +
+    read('CHANGES.txt')
+    + '\n' +
+    'Contributors\n'
+    '************\n'
+    + '\n' +
+    read('CONTRIBUTORS.txt')
+    )
+
 
 setup(name='plumi.locales',
       version=version,
-      description="Locales for Plumi",
-      long_description=open("README.txt").read() + "\n" +
-                       open(os.path.join("docs", "HISTORY.txt")).read(),
+      description="Locales for Plumi 3.0",
+      long_description=long_description, 
       # Get more strings from http://www.python.org/pypi?%3Aaction=list_classifiers
       classifiers=[
         "Framework :: Plone",
@@ -15,8 +32,8 @@ setup(name='plumi.locales',
         "Topic :: Software Development :: Libraries :: Python Modules",
         ],
       keywords='plone plumi translation locales internationalization i18n l10n',
-      author='Engagemedia.org',
-      author_email='contact@engagemedia.org',
+      author='Andy Nicholson',
+      author_email='andy@infiniterecursion.com.au',
       url='https://svn.plone.org/svn/collective/plumi.locales/trunk',
       license='GPL',
       packages=find_packages(exclude=['ez_setup']),
