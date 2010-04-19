@@ -596,10 +596,15 @@ msgstr "Kerja"
 msgid "Workshop"
 msgstr "Lokakarya"
 
-#. Default: "If the automatically transcoded movie is corrupted, or poor quality etc. , you may like to <a href=\"${DYNAMIC_CONTENT}\">turn off flowplayer and automatic transcoding.</a>"
+#. Default: "If the automatically transcoded movie is corrupted, or poor quality etc. , you may like to "
 #: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:295
 msgid "cancel_transcoding"
-msgstr "batalkan_transcoding"
+msgstr "batalkan"
+
+#. Default: "turn off flowplayer and automatic transcoding."
+
+msgid "turn off flowplayer and automatic transcoding"
+msgstr "transcoding"
 
 #. Default: "Copy the following to embed the movie into another web page:"
 #: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:229
@@ -649,7 +654,12 @@ msgstr "Berbagi produk anda dengan mengunggah video ke ${site_name}. Video-video
 #. Default: "You may like to try to <a href=\"${DYNAMIC_CONTENT}\">re-start transcoding.</a>"
 #: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:289
 msgid "restart_transcoding"
-msgstr "Cobalah untuk <a href=\"${DYNAMIC_CONTENT}\">mengulangi transcoding.</a>"
+msgstr "Cobalah untuk"
+
+
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:289
+msgid "re-start transcoding"
+msgstr "mengulangi transcoding."
 
 #. Default: "View larger image"
 #: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:218
