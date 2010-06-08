@@ -1,0 +1,683 @@
+# translation of plumi.po to Spanish
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: plumi\n"
+"POT-Creation-Date: 2009-08-28 04:22+0000\n"
+"PO-Revision-Date: 2010-06-08 19:02-0400\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language-Team: Spanish <plone-conosur@lists.plone.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: es\n"
+"Language-Name: Spanish\n"
+"Preferred-Encodings: latin1 utf-8\n"
+"Domain: plumi\n"
+"X-Is-Fallback-For: es-ar es-bo es-cl es-co es-cr es-do es-ec es-es es-sv es-gt es-hn es-mx es-ni es-pa es-py es-pe es-pr es-us es-uy es-ve\n"
+
+#. Default: "${location}, from ${start} to ${end}"
+#: ../../../plumi.skin/plumi/skin/browser/templates/featured.pt:111
+msgid "${location}, from ${start} to ${end}"
+msgstr "${location}, de ${start} a ${end}"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:27
+msgid "Activism"
+msgstr "Activismos"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:35
+msgid "Animal Rights"
+msgstr "Derechos animales"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:44
+msgid "Animation"
+msgstr "Animación"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:24
+msgid "Art / Culture"
+msgstr "Arte / Cultura"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:57
+msgid "Art Prize"
+msgstr "Pieza de arte"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:30
+msgid "Biodiversity"
+msgstr "Biodiversidad"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:37
+msgid "Biotech"
+msgstr "Biotecnología"
+
+#: ../../../plumi.content/plumi/content/content/plumicallout.py:76
+msgid "Body Text"
+msgstr "Texto de cuerpo"
+
+#: ../../../plumi.app/plumi/app/install.py:175
+msgid "Bougainville"
+msgstr "Bougainville (Islas Salomón)"
+
+#: ../../../plumi.app/plumi/app/install.py:305
+msgid "Browse Content"
+msgstr "Navegar contenido"
+
+#: ../../../plumi.app/plumi/app/install.py:182
+msgid "Burma"
+msgstr "Birmania"
+
+#. Default: "Call Out!"
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:57
+msgid "Call Out!"
+msgstr "¡Llamar!"
+
+#: ../../../plumi.app/plumi/app/install.py:449
+msgid "Call Outs"
+msgstr "Llamados"
+
+#. Default: "Categories"
+#: ../../../plumi.skin/plumi/skin/browser/templates/video_brain.pt:57
+msgid "Categories"
+msgstr "Categorías"
+
+#: ../../../plumi.content/plumi/content/content/plumicallout.py:88
+msgid "Categories. Hold down CTRL/COMMAND and click to multiple select topics."
+msgstr "Categorías. Presione la tecla CTRL/COMMAND y haga clic para seleccionar múltiples temáticas."
+
+#: ../../../plumi.content/plumi/content/content/plumicallout.py:87
+msgid "Category"
+msgstr "Categoría"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:38
+msgid "Civil Liberties"
+msgstr "Libertades Civiles"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:31
+msgid "Climate Change"
+msgstr "Cambio climático"
+
+#: ../../../plumi.content/plumi/content/content/plumicallout.py:101
+msgid "Closing Date"
+msgstr "Fecha de cierre"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:56
+msgid "Competition"
+msgstr "Competición"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:53
+msgid "Conference"
+msgstr "Conferencia"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:17
+msgid "Consumerism"
+msgstr "Consumismo"
+
+#. Default: "Contact"
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:140
+msgid "Contact"
+msgstr "Contacto"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:13
+msgid "Corporations / Privatisation"
+msgstr "Corporaciones / Privatización"
+
+#: ../../../plumi.app/plumi/app/install.py:406
+msgid "Countries"
+msgstr "Países"
+
+#. Default: "Country"
+#: ../../../plumi.skin/plumi/skin/browser/templates/video_brain.pt:75
+msgid "Country"
+msgstr "País"
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:172
+msgid "Country of origin of the video"
+msgstr "País del origen del vídeo"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:55
+msgid "Crew"
+msgstr "Equipo"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:51
+msgid "DVD"
+msgstr "DVD"
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:44
+msgid "Date Produced"
+msgstr "Fecha producido"
+
+#. Default: "Directed by"
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:131
+msgid "Directed by"
+msgstr "Dirigido por"
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:133
+msgid "Director"
+msgstr "Director"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:20
+msgid "Disability Rights"
+msgstr "Deshabilitar derechos"
+
+#. Default: "Distributor"
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:181
+msgid "Distributor"
+msgstr "Distribuidor"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:41
+msgid "Documentary"
+msgstr "Documental"
+
+#. Default: "Download Hi-Res / Screening Version"
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:253
+msgid "Download Hi-Res / Screening Version"
+msgstr "Descargar en alta resolución / Versión para proyección"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:29
+msgid "Education"
+msgstr "Educación"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:58
+msgid "Exhibition"
+msgstr "Exhibición"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:42
+msgid "Experimental"
+msgstr "Experimental"
+
+#. Default: "Featured Video"
+#: ../../../plumi.skin/plumi/skin/browser/templates/featured.pt:31
+msgid "Featured Video"
+msgstr "Vídeo destacado"
+
+#: ../../../plumi.app/plumi/app/install.py:209
+msgid "Featured Videos"
+msgstr "Vídeos destacados"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:49
+msgid "Festival"
+msgstr "Festival"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:43
+msgid "Fiction"
+msgstr "Ficción"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:32
+msgid "Forests / Conservation"
+msgstr "Forestación / Conservación"
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:56
+msgid "Full Description"
+msgstr "Descripción completa"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:21
+msgid "Gender / Sexuality"
+msgstr "Género / Sexualidad"
+
+#. Default: "Genres"
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:46
+msgid "Genres"
+msgstr "Géneros"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:14
+msgid "Globalisation"
+msgstr "Globalización"
+
+#: ../../../plumi.app/plumi/app/install.py:174
+msgid "Hawaii"
+msgstr "Hawaii"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:12
+msgid "Health"
+msgstr "Salud"
+
+#. Default: "Home page"
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:149
+msgid "Home page"
+msgstr "Página de inicio"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:19
+msgid "Human Rights"
+msgstr "Derechos humanos"
+
+#: ../../../plumi.content/plumi/content/content/plumicallout.py:51
+msgid "Image"
+msgstr "Imagen"
+
+#: ../../../plumi.content/plumi/content/content/plumicallout.py:64
+msgid "Image caption"
+msgstr "Titulo de Imagen"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:10
+msgid "Indigenous"
+msgstr "Indígena"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:25
+msgid "Internet"
+msgstr "Internet"
+
+#. Default: "Keywords"
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:82
+msgid "Keywords"
+msgstr "Palabras claves"
+
+#. Default: "Language"
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:159
+msgid "Language"
+msgstr "Lenguajes"
+
+#: ../../../plumi.app/plumi/app/install.py:183
+msgid "Laos"
+msgstr "Laos"
+
+#. Default: "Latest Videos"
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:237
+msgid "Latest Videos"
+msgstr "Últimos vídeos"
+
+#: ../../../plumi.app/plumi/app/install.py:222
+msgid "Latest news and events on the site."
+msgstr "Últimas noticias y eventos en el sitio."
+
+#: ../../../plumi.app/plumi/app/install.py:216
+msgid "Latest videos contributed by the users."
+msgstr "Últimos vídeos contribuidos por los usuarios."
+
+#: ../../../plumi.app/plumi/app/vocabs.py:15
+msgid "Law / Justice"
+msgstr "Ley / Justicia"
+
+#: ../../../plumi.content/plumi/content/content/plumicallout.py:40
+msgid "Location"
+msgstr "Ubicación"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:26
+msgid "Media"
+msgstr "Media"
+
+#. Default: "More Videos…"
+#: ../../../plumi.skin/plumi/skin/browser/templates/featured.pt:151
+msgid "More Videos&hellip;"
+msgstr "Más vídeos &hellip;"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:45
+msgid "Music"
+msgstr "Musica"
+
+#: ../../../plumi.app/plumi/app/install.py:185
+msgid "NZ-Aotearoa"
+msgstr "Nueva Zelanda - Aotearoa"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:46
+msgid "News Report"
+msgstr "Reportaje noticioso"
+
+#. Default: "News and Events"
+#: ../../../plumi.skin/plumi/skin/browser/templates/featured.pt:69
+msgid "News and Events"
+msgstr "Noticias y Eventos"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:33
+msgid "Nuclear"
+msgstr "Nuclear"
+
+#: ../../../plumi.app/plumi/app/install.py:192
+msgid "Oceania"
+msgstr "Oceanía"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:59
+msgid "Other"
+msgstr "Otro"
+
+#. Default: "Play video"
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:204
+msgid "Play video"
+msgstr "Reproducir vídeo"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:28
+msgid "Politics"
+msgstr "Políticas"
+
+#. Default: "Posted: ${PostedDate}"
+#: ../../../plumi.skin/plumi/skin/browser/templates/featured.pt:85
+msgid "Posted: ${PostedDate}"
+msgstr "Enviado:  ${PostedDate}"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:9
+msgid "Poverty / Development"
+msgstr "Pobreza / Desarrollo"
+
+#. Default: "Produced"
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:168
+msgid "Produced"
+msgstr "Producido"
+
+#. Default: "Produced by"
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:123
+msgid "Produced by"
+msgstr "Producido por"
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:145
+msgid "Producer"
+msgstr "Productor"
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:120
+msgid "Producer Email Address"
+msgstr "Dirección de correo electrónico del Productor"
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:108
+msgid "Producer Mailing Address"
+msgstr "Dirección de correo del Productor"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:52
+msgid "Production"
+msgstr "Producción"
+
+#. Default: "Production Company"
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:175
+msgid "Production Company"
+msgstr "Compañía productora"
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:88
+msgid "Production Company Name"
+msgstr "Nombre de compañía productora"
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:98
+msgid "Project Name"
+msgstr "Nombre de proyecto"
+
+#: ../../../plumi.content/plumi/content/content/plumicallout.py:102
+msgid "Provide a date for when this callout will be closed."
+msgstr "Proveer una fecha para cuando este llamado será cerrado."
+
+#. Default: "Publish Event"
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:47
+msgid "Publish Event"
+msgstr "Públicar Evento"
+
+#. Default: "Publish News"
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:52
+msgid "Publish News"
+msgstr "Publicar Noticia"
+
+#. Default: "Publish Video"
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:37
+msgid "Publish Video"
+msgstr "Publicar Vídeo"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:22
+msgid "Race"
+msgstr ""
+
+#. Default: "Read more…"
+#: ../../../plumi.skin/plumi/skin/browser/templates/video_brain.pt:45
+msgid "Read more&hellip;"
+msgstr "Leer más &hellip;"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:11
+msgid "Refugee / Migration"
+msgstr "Refugiados / Migración"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:23
+msgid "Religion"
+msgstr "Religión"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:50
+msgid "Screening"
+msgstr "Proyección"
+
+#: ../../../plumi.app/plumi/app/install.py:188
+msgid "South East Asia"
+msgstr "Sureste de Asia"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:34
+msgid "Sustainability"
+msgstr "Sostenibilidad"
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:134
+msgid "The Director of the video content"
+msgstr "El director del contenido del vídeo"
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:67
+msgid "The Distributor of the video content"
+msgstr "El distribuidor del contenido del vídeo"
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:146
+msgid "The Producer of the video content"
+msgstr "El productor del contenido del vídeo"
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:121
+msgid "The Producer's email address"
+msgstr "La dirección de correo electrónico del productor"
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:109
+msgid "The Producer's mailing address"
+msgstr "La dirección de correo electrónico del productor"
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:173
+msgid "The associated country of origin of the video content"
+msgstr "El país de origen asociado al contenido del vídeo"
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:34
+msgid "The caption for the thumbnail image."
+msgstr "El título de la imagen en miniatura."
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:45
+msgid "The date the video content was released."
+msgstr "La fecha del contenido deL vídeo en la cual fue publicada."
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:57
+msgid "The description of the video content"
+msgstr "La descripción del contenido de vídeo"
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:200
+msgid "The genre of the video"
+msgstr "El genero del vídeo"
+
+#: ../../../plumi.content/plumi/content/content/plumicallout.py:77
+msgid "The main description for the callout"
+msgstr "La principal descripción del llamado"
+
+#: ../../../plumi.content/plumi/content/interfaces/plumicallout.py:41
+msgid "The main text content"
+msgstr "El principal texto de contenido"
+
+#: ../../../plumi.content/plumi/content/interfaces/plumicallout.py:29
+msgid "The text caption describing the image"
+msgstr "El título de texto que describe la imagen"
+
+#: ../../../plumi.content/plumi/content/content/plumicallout.py:65
+msgid "The text caption describing the image."
+msgstr "El título de texto que describe la imagen."
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:158
+msgid "The thumbnail image for the video content"
+msgstr "La imagen en miniatura para el contenido del vídeo"
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:218
+msgid "The uploaded video file"
+msgstr "El archivo de vídeo subido"
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:186
+msgid "The video categories - select as many as applicable."
+msgstr "Las categorías de vídeo - seleccione tantas como corresponda."
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:77
+msgid "The website URL for the video content"
+msgstr "La dirección URL del sitio Web para el contenido del vídeo."
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:33
+msgid "Thumbnail Image description"
+msgstr "Descripción de imagen en miniatura"
+
+#. Default: "Transcode Status"
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:284
+msgid "Transcode Status"
+msgstr "Estatus de conversión"
+
+#: ../../../plumi.content/plumi/content/content/plumicallout.py:41
+msgid "Typically a callout has an associated location in a common format (i.e. City, State)"
+msgstr "Típicamente un llamado esta asociado a una ubicación en un formato común (ej. Ciudad, Estado)"
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:185
+msgid "Video Categories"
+msgstr "Categorías de vídeo"
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:217
+msgid "Video File"
+msgstr "Archivo de vídeo"
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:199
+msgid "Video Genre"
+msgstr "Genero de vídeo"
+
+#: ../../../plumi.app/plumi/app/install.py:321
+msgid "Video Genres"
+msgstr "Géneros de vídeo"
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:157
+msgid "Video Thumbnail"
+msgstr "Thumbnail de vídeo"
+
+#: ../../../plumi.app/plumi/app/install.py:359
+msgid "Video Topics"
+msgstr "Temática de vídeo"
+
+#. Default: "Video information"
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:116
+msgid "Video information"
+msgstr "Información de vídeo"
+
+#. Default: "Videos best viewed on VLC player"
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:266
+msgid "Videos best viewed on VLC player"
+msgstr "Los vídeos son visualizados mucho mejor con el reproductor VLC"
+
+#: ../../../plumi.app/plumi/app/install.py:210
+msgid "Videos featured by the editorial team."
+msgstr "Vídeos destacados por el equipo editorial."
+
+#: ../../../plumi.app/plumi/app/install.py:184
+msgid "Vietnam"
+msgstr "Vietnam"
+
+#. Default: "View editorial policy"
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:43
+msgid "View editorial policy"
+msgstr "Política de vista editorial"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:18
+msgid "War / Peace"
+msgstr "Guerra / Paz"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:36
+msgid "Water"
+msgstr "Agua"
+
+#: ../../../plumi.content/plumi/content/content/plumicallout.py:30
+msgid "Website Address"
+msgstr "Dirección del Sitio Web"
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:76
+msgid "Website URL"
+msgstr "Dirección URL del Sitio Web"
+
+#: ../../../plumi.content/plumi/content/content/plumicallout.py:31
+msgid "Website for more info about the callout"
+msgstr "Sitio web para más información acerca de este llamado"
+
+#: ../../../plumi.app/plumi/app/install.py:172
+msgid "West Papua"
+msgstr "Nueva Guinea Occidental"
+
+#: ../../../plumi.content/plumi/content/content/plumicallout.py:52
+msgid "Will be shown in the call out listings, and the call out item itself. Image will be scaled to a sensible size."
+msgstr "Será mostrada en la lista de llamados, y la llamada por si misma del elemento. La imagen será modificada para que un tamaño razonable."
+
+#: ../../../plumi.app/plumi/app/vocabs.py:16
+msgid "Work"
+msgstr "Trabajo"
+
+#: ../../../plumi.app/plumi/app/vocabs.py:54
+msgid "Workshop"
+msgstr "Taller"
+
+#. Default: "If the automatically transcoded movie is corrupted, or poor quality etc. , you may like to "
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:295
+msgid "cancel_transcoding"
+msgstr "Si el vídeo convertido automáticamente esta dañado, o es de mala calidad, etc., usted podria gustarle "
+
+#. Default: "turn off flowplayer and automatic transcoding."
+msgid "turn off flowplayer and automatic transcoding"
+msgstr "desactivar el reproductor FlowPlayer y convirtiendo automáticamente."
+
+#. Default: "Copy the following to embed the movie into another web page:"
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:229
+msgid "copy_embed_code"
+msgstr "Copiar el siguiente código para empotrar la película dentro de otra página Web:"
+
+#. Default: "There are currently no results for this search."
+#: ../../../plumi.skin/plumi/skin/browser/templates/video_listing.pt:24
+msgid "description_no_items_in_topic"
+msgstr "No hay actualmente  resultados para este búsqueda."
+
+#. Default: "Up one level"
+#: ../../../plumi.skin/plumi/skin/browser/templates/video_listing_view.pt:19
+msgid "go_to_parent_url"
+msgstr "Subir un nivel"
+
+#. Default: "more info"
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:151
+msgid "more info"
+msgstr "más información"
+
+#. Default: "This item does not have any body text, click the edit tab to change it."
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:35
+msgid "no_body_text"
+msgstr "Este elemento no tiene ningún tipo texto de cuerpo, haga clic en la pestaña editar para cambiarlo."
+
+#. Default: "Looking for content for a DVD compilation, screening, film festival or crew for a production? Let people know about it by adding a call-out."
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:58
+msgid "publish_callout_blurb"
+msgstr "¿Esta buscando el contenido de un DVD recopilatorio, proyección, festival de cine o del personal de una producción?, Permita que las personas sepan al respecto de esto agregando un llamado."
+
+#. Default: "List your events such as screenings, film festivals or workshops here."
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:48
+msgid "publish_event_blurb"
+msgstr "La lista de sus eventos como por ej. proyecciones, festivales de cine o talleres están aquí."
+
+#. Default: "Tell us news about your past and future productions and promote your work."
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:53
+msgid "publish_news_blurb"
+msgstr "Cuéntanos las noticias acerca de sus producciones pasadas y futuras, y promueva su trabajo."
+
+#. Default: "Share your productions by uploading video to ${site_name}. Videos will be automatically submitted for publishing approval."
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:40
+msgid "publish_video_blurb"
+msgstr "Comparta sus producciones subiendo los vídeos a ${site_name}. Los vídeos será enviados automáticamente a aprobar su publicación."
+
+#. Default: "You may like to try to <a href=\"${DYNAMIC_CONTENT}\">re-start transcoding.</a>"
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:289
+msgid "restart_transcoding"
+msgstr "Puede que le guste tratar de <a href=\"${DYNAMIC_CONTENT}\">iniciar de nuevo la conversión.</a>"
+
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:289
+msgid "re-start transcoding"
+msgstr "iniciar de nuevo conversión"
+
+#. Default: "View larger image"
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:218
+msgid "thumbnail_click_to_enlarge"
+msgstr "Vista de imagen grande"
+
+#. Default: "RSS2 Syndication"
+#: ../../../plumi.skin/plumi/skin/browser/templates/featured.pt:23
+msgid "title"
+msgstr "Sindicación RSS2"
+
+#. Default: "write the producer"
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:142
+#, fuzzy
+msgid "write the producer"
+msgstr "escribir el productor"
+
