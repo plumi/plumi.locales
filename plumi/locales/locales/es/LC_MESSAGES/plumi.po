@@ -69,11 +69,11 @@ msgstr "Birmania"
 #. Default: "Call Out!"
 #: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:57
 msgid "Call Out!"
-msgstr "¡Llamar!"
+msgstr "¡Anunciar!"
 
 #: ../../../plumi.app/plumi/app/install.py:449
 msgid "Call Outs"
-msgstr "Llamados"
+msgstr "Anuncios"
 
 #. Default: "Categories"
 #: ../../../plumi.skin/plumi/skin/browser/templates/video_brain.pt:57
@@ -592,7 +592,7 @@ msgstr "Nueva Guinea Occidental"
 
 #: ../../../plumi.content/plumi/content/content/plumicallout.py:52
 msgid "Will be shown in the call out listings, and the call out item itself. Image will be scaled to a sensible size."
-msgstr "Será mostrada en la lista de llamados, y la llamada por si misma del elemento. La imagen será modificada para que un tamaño razonable."
+msgstr "Será mostrada en la lista de anuncios, e incluso el elemento del anuncio por si mismo. La imagen será modificada para que un tamaño razonable."
 
 #: ../../../plumi.app/plumi/app/vocabs.py:16
 msgid "Work"
