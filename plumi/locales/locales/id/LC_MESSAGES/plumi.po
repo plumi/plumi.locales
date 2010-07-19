@@ -1,24 +1,49 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Plumi\n"
-"POT-Creation-Date: 2009-08-28 04:22+0000\n"
+"POT-Creation-Date: 2010-07-19 17:57+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Isnu Suntoro <isnusun@gmail.com>\n"
 "Language-Team: Isnu Suntoro <isnusun@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: DOMAIN\n"
 "X-Poedit-Language: Indonesian\n"
 "X-Poedit-Country: INDONESIA\n"
 
 #. Default: "${location}, from ${start} to ${end}"
-#: ../../../plumi.skin/plumi/skin/browser/templates/featured.pt:111
+#: ../../../plumi.skin/plumi/skin/browser/templates/featured.pt:123
 msgid "${location}, from ${start} to ${end}"
 msgstr "${location}, dari ${start} sampai dengan ${end}"
+
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "- Users can create content that is immediately publicly accessible. - Content can be submitted for publication by the content's creator or a Manager, which is typically done to promote events or news to the front page. - Reviewers can publish or reject content, content owners can retract their submissions. - While the content is awaiting review it is readable by anybody. - If content is published, it can only be retracted by a Manager."
+msgstr ""
+
+#: ../../../plumi.content/plumi/content/subscribers.py:142
+msgid "A comment has been added on "
+msgstr ""
 
 #: ../../../plumi.app/plumi/app/vocabs.py:27
 msgid "Activism"
 msgstr "Aktivis"
+
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/personalize_form.cpt:401
+msgid "Activities"
+msgstr ""
+
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:243
+msgid "Activities :"
+msgstr ""
+
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:200
+msgid "Address :"
+msgstr ""
 
 #: ../../../plumi.app/plumi/app/vocabs.py:35
 msgid "Animal Rights"
@@ -36,6 +61,10 @@ msgstr "Seni / Budaya"
 msgid "Art Prize"
 msgstr "Hadiah Seni"
 
+#: ../../../plumi.app/plumi/app/install.py:142
+msgid "Australasia"
+msgstr ""
+
 #: ../../../plumi.app/plumi/app/vocabs.py:30
 msgid "Biodiversity"
 msgstr "Keanekaragaman Hayati"
@@ -45,40 +74,48 @@ msgid "Biotech"
 msgstr "Teknologi Hayati"
 
 #: ../../../plumi.content/plumi/content/content/plumicallout.py:76
+#: ../../../plumi.content/plumi/content/interfaces/plumicallout.py:39
 msgid "Body Text"
 msgstr "Badan Teks"
 
-#: ../../../plumi.app/plumi/app/install.py:175
+#: ../../../plumi.app/plumi/app/install.py:140
 msgid "Bougainville"
 msgstr "Bogenvile"
 
-#: ../../../plumi.app/plumi/app/install.py:305
+#: ../../../plumi.app/plumi/app/install.py:280
 msgid "Browse Content"
 msgstr "Jelajah Konten"
 
-#: ../../../plumi.app/plumi/app/install.py:182
-msgid "Burma"
-msgstr "Burma"
-
 #. Default: "Call Out!"
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:57
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:56
 msgid "Call Out!"
 msgstr "Pengumuman!"
 
-#: ../../../plumi.app/plumi/app/install.py:449
+#: ../../../plumi.app/plumi/app/install.py:429
 msgid "Call Outs"
 msgstr "Pengumuman"
 
+#: ../../../plumi.app/plumi/app/install.py:179
+msgid "Callouts"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Can only be seen and edited by the owner."
+msgstr ""
+
 #. Default: "Categories"
-#: ../../../plumi.skin/plumi/skin/browser/templates/video_brain.pt:57
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_callout_view.pt:56
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:177
 msgid "Categories"
 msgstr "Kategori"
 
 #: ../../../plumi.content/plumi/content/content/plumicallout.py:88
+#: ../../../plumi.content/plumi/content/interfaces/plumicallout.py:47
 msgid "Categories. Hold down CTRL/COMMAND and click to multiple select topics."
 msgstr "Kategori. Tekan Ctrl/Command dan klik untuk memilih lebih dari satu topik."
 
 #: ../../../plumi.content/plumi/content/content/plumicallout.py:87
+#: ../../../plumi.content/plumi/content/interfaces/plumicallout.py:45
 msgid "Category"
 msgstr "Kategori"
 
@@ -91,8 +128,18 @@ msgid "Climate Change"
 msgstr "Perubahan Iklim"
 
 #: ../../../plumi.content/plumi/content/content/plumicallout.py:101
+#: ../../../plumi.content/plumi/content/interfaces/plumicallout.py:51
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_callout_view.pt:83
 msgid "Closing Date"
 msgstr "Tanggal Penutupan"
+
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Comment about the last transition"
+msgstr ""
+
+#: ../../../plumi.content/plumi/content/subscribers.py:140
+msgid "Comment added on: "
+msgstr ""
 
 #: ../../../plumi.app/plumi/app/vocabs.py:56
 msgid "Competition"
@@ -107,7 +154,7 @@ msgid "Consumerism"
 msgstr "Konsumerisme"
 
 #. Default: "Contact"
-#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:140
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:253
 msgid "Contact"
 msgstr "Kontak"
 
@@ -115,16 +162,21 @@ msgstr "Kontak"
 msgid "Corporations / Privatisation"
 msgstr "Korporasi / Swastanisasi"
 
-#: ../../../plumi.app/plumi/app/install.py:406
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/send_feedback_to_author.cpy:56
+msgid "Could not find a valid email address"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/install.py:381
 msgid "Countries"
 msgstr "Negara-negara"
 
 #. Default: "Country"
-#: ../../../plumi.skin/plumi/skin/browser/templates/video_brain.pt:75
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:213
 msgid "Country"
 msgstr "Negara"
 
-#: ../../../plumi.content/plumi/content/content/plumivideo.py:172
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:138
+#: ../../../plumi.content/plumi/content/interfaces/plumivideo.py:86
 msgid "Country of origin of the video"
 msgstr "Negara asal video"
 
@@ -136,16 +188,21 @@ msgstr "Kru"
 msgid "DVD"
 msgstr "DVD"
 
-#: ../../../plumi.content/plumi/content/content/plumivideo.py:44
+#: ../../../plumi.content/plumi/content/interfaces/plumivideo.py:20
 msgid "Date Produced"
 msgstr "Tanggal Pembuatan"
 
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:115
+msgid "Date of release"
+msgstr ""
+
 #. Default: "Directed by"
-#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:131
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:244
 msgid "Directed by"
 msgstr "Diarahkan oleh"
 
-#: ../../../plumi.content/plumi/content/content/plumivideo.py:133
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:46
+#: ../../../plumi.content/plumi/content/interfaces/plumivideo.py:68
 msgid "Director"
 msgstr "Pengarah"
 
@@ -154,7 +211,9 @@ msgid "Disability Rights"
 msgstr "Hak Cacat"
 
 #. Default: "Distributor"
-#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:181
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:106
+#: ../../../plumi.content/plumi/content/interfaces/plumivideo.py:32
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:294
 msgid "Distributor"
 msgstr "Penyalur"
 
@@ -162,8 +221,12 @@ msgstr "Penyalur"
 msgid "Documentary"
 msgstr "Dokumenter"
 
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:134
+msgid "Download / Watch Ogg Theora Version"
+msgstr ""
+
 #. Default: "Download Hi-Res / Screening Version"
-#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:253
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:125
 msgid "Download Hi-Res / Screening Version"
 msgstr "Unduh Resolusi Tinggi/Versi Layar"
 
@@ -179,14 +242,26 @@ msgstr "Pameran"
 msgid "Experimental"
 msgstr "Percobaan"
 
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Feature"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Featured"
+msgstr ""
+
 #. Default: "Featured Video"
-#: ../../../plumi.skin/plumi/skin/browser/templates/featured.pt:31
+#: ../../../plumi.skin/plumi/skin/browser/templates/featured.pt:32
 msgid "Featured Video"
 msgstr "Video Unggulan"
 
-#: ../../../plumi.app/plumi/app/install.py:209
+#: ../../../plumi.app/plumi/app/install.py:161
 msgid "Featured Videos"
 msgstr "Video-video Unggulan"
+
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Featuring the item makes it visible on the front page."
+msgstr ""
 
 #: ../../../plumi.app/plumi/app/vocabs.py:49
 msgid "Festival"
@@ -200,7 +275,8 @@ msgstr "Fiksi"
 msgid "Forests / Conservation"
 msgstr "Hutan / Konservasi"
 
-#: ../../../plumi.content/plumi/content/content/plumivideo.py:56
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:128
+#: ../../../plumi.content/plumi/content/interfaces/plumivideo.py:26
 msgid "Full Description"
 msgstr "Keterangan Lengkap"
 
@@ -208,8 +284,16 @@ msgstr "Keterangan Lengkap"
 msgid "Gender / Sexuality"
 msgstr "Jender / Seksualitas"
 
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/personalize_form.cpt:365
+msgid "Genre Interests"
+msgstr ""
+
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:230
+msgid "Genre Interests :"
+msgstr ""
+
 #. Default: "Genres"
-#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:46
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:159
 msgid "Genres"
 msgstr "Genre"
 
@@ -217,7 +301,7 @@ msgstr "Genre"
 msgid "Globalisation"
 msgstr "Globalisasi"
 
-#: ../../../plumi.app/plumi/app/install.py:174
+#: ../../../plumi.app/plumi/app/install.py:139
 msgid "Hawaii"
 msgstr "Hawaii"
 
@@ -225,8 +309,16 @@ msgstr "Hawaii"
 msgid "Health"
 msgstr "Kesehatan"
 
+#: ../../../plumi.content/plumi/content/subscribers.py:141
+msgid "Hi "
+msgstr ""
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:162
+msgid "Hold down CTRL/COMMAND and click to select multiple topics."
+msgstr ""
+
 #. Default: "Home page"
-#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:149
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:262
 msgid "Home page"
 msgstr "Laman depan"
 
@@ -234,11 +326,17 @@ msgstr "Laman depan"
 msgid "Human Rights"
 msgstr "Hak-hak Asasi Manusia"
 
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "If you submitted the item by mistake or want to perform additional edits, this will take it back."
+msgstr ""
+
 #: ../../../plumi.content/plumi/content/content/plumicallout.py:51
+#: ../../../plumi.content/plumi/content/interfaces/plumicallout.py:33
 msgid "Image"
 msgstr "Gambar"
 
 #: ../../../plumi.content/plumi/content/content/plumicallout.py:64
+#: ../../../plumi.content/plumi/content/interfaces/plumicallout.py:27
 msgid "Image caption"
 msgstr "Judul gambar"
 
@@ -250,30 +348,60 @@ msgstr "Pribumi"
 msgid "Internet"
 msgstr "Internet"
 
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "It will set processing status to the object."
+msgstr ""
+
+#: ../../../plumi.content/plumi/content/adapters.py:119
+msgid "Item has been rejected.."
+msgstr ""
+
+#: ../../../plumi.content/plumi/content/adapters.py:157
+msgid "Item has been retracted.."
+msgstr ""
+
+#: ../../../plumi.content/plumi/content/adapters.py:79
+msgid "Item has been submitted for your review"
+msgstr ""
+
 #. Default: "Keywords"
-#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:82
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:195
 msgid "Keywords"
 msgstr "Kata kunci"
 
 #. Default: "Language"
-#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:159
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:272
 msgid "Language"
 msgstr "Bahasa"
 
-#: ../../../plumi.app/plumi/app/install.py:183
-msgid "Laos"
-msgstr "Laos"
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:299
+msgid "Latest Callouts"
+msgstr ""
+
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:354
+msgid "Latest Events"
+msgstr ""
+
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:326
+msgid "Latest News"
+msgstr ""
 
 #. Default: "Latest Videos"
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:237
+#: ../../../plumi.app/plumi/app/install.py:167
+#: ../../../plumi.skin/plumi/skin/browser/templates/featured.pt:154
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:276
 msgid "Latest Videos"
 msgstr "Video Terbaru"
 
-#: ../../../plumi.app/plumi/app/install.py:222
+#: ../../../plumi.app/plumi/app/install.py:180
+msgid "Latest callouts."
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/install.py:174
 msgid "Latest news and events on the site."
 msgstr "Berita dan peristiwa terbaru dalam situs ini."
 
-#: ../../../plumi.app/plumi/app/install.py:216
+#: ../../../plumi.app/plumi/app/install.py:168
 msgid "Latest videos contributed by the users."
 msgstr "Video terbaru yang dikirim oleh para pengguna."
 
@@ -282,15 +410,49 @@ msgid "Law / Justice"
 msgstr "Hukum / Keadilan"
 
 #: ../../../plumi.content/plumi/content/content/plumicallout.py:40
+#: ../../../plumi.content/plumi/content/interfaces/plumicallout.py:20
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_callout_view.pt:74
 msgid "Location"
 msgstr "Lokasi"
+
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/send_feedback_to_author.cpy:99
+msgid "Mail sent."
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Make private"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Making an item private means that it will not be visible to anyone but the owner and the site administrator."
+msgstr ""
 
 #: ../../../plumi.app/plumi/app/vocabs.py:26
 msgid "Media"
 msgstr "Media"
 
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:255
+msgid "Media Formats :"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Member makes content private"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Member promotes content to public draft"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Member retracts submission"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Member submits content for publication"
+msgstr ""
+
 #. Default: "More Videos…"
-#: ../../../plumi.skin/plumi/skin/browser/templates/featured.pt:151
+#: ../../../plumi.skin/plumi/skin/browser/templates/featured.pt:165
 msgid "More Videos&hellip;"
 msgstr "Video Lain&hellip;"
 
@@ -298,16 +460,13 @@ msgstr "Video Lain&hellip;"
 msgid "Music"
 msgstr "Musik"
 
-#: ../../../plumi.app/plumi/app/install.py:185
-msgid "NZ-Aotearoa"
-msgstr "NZ-Aotearoa"
-
 #: ../../../plumi.app/plumi/app/vocabs.py:46
 msgid "News Report"
 msgstr "Laporan Berita"
 
 #. Default: "News and Events"
-#: ../../../plumi.skin/plumi/skin/browser/templates/featured.pt:69
+#: ../../../plumi.app/plumi/app/install.py:173
+#: ../../../plumi.skin/plumi/skin/browser/templates/featured.pt:70
 msgid "News and Events"
 msgstr "Berita dan Acara"
 
@@ -315,25 +474,52 @@ msgstr "Berita dan Acara"
 msgid "Nuclear"
 msgstr "Nuklir"
 
-#: ../../../plumi.app/plumi/app/install.py:192
-msgid "Oceania"
-msgstr "Oceania"
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:219
+msgid "One per line"
+msgstr ""
 
 #: ../../../plumi.app/plumi/app/vocabs.py:59
 msgid "Other"
 msgstr "Lain"
 
-#. Default: "Play video"
-#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:204
-msgid "Play video"
-msgstr "Putar video"
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Pending review"
+msgstr ""
+
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:210
+msgid "Phone :"
+msgstr ""
+
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/personalize_form.cpt:342
+msgid "Phone Number"
+msgstr ""
+
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/personalize_form.cpt:297
+msgid "Physical Address"
+msgstr ""
+
+#: ../../../plumi.content/plumi/content/adapters.py:80
+msgid "Please review the submitted content. "
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Plumi Workflow"
+msgstr ""
 
 #: ../../../plumi.app/plumi/app/vocabs.py:28
 msgid "Politics"
 msgstr "Politik"
 
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:220
+msgid "Post Code :"
+msgstr ""
+
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/personalize_form.cpt:320
+msgid "Postcode"
+msgstr ""
+
 #. Default: "Posted: ${PostedDate}"
-#: ../../../plumi.skin/plumi/skin/browser/templates/featured.pt:85
+#: ../../../plumi.skin/plumi/skin/browser/templates/featured.pt:86
 msgid "Posted: ${PostedDate}"
 msgstr "Dikirim:  ${PostedDate}"
 
@@ -341,25 +527,44 @@ msgstr "Dikirim:  ${PostedDate}"
 msgid "Poverty / Development"
 msgstr "Kemiskinan / Pembangunan"
 
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Previous transition"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Private"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Process"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Processing"
+msgstr ""
+
 #. Default: "Produced"
-#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:168
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:281
 msgid "Produced"
 msgstr "Diproduksi"
 
 #. Default: "Produced by"
-#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:123
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:236
 msgid "Produced by"
 msgstr "Diproduksi oleh "
 
-#: ../../../plumi.content/plumi/content/content/plumivideo.py:145
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:35
+#: ../../../plumi.content/plumi/content/interfaces/plumivideo.py:74
 msgid "Producer"
 msgstr "Produser"
 
-#: ../../../plumi.content/plumi/content/content/plumivideo.py:120
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:56
+#: ../../../plumi.content/plumi/content/interfaces/plumivideo.py:62
 msgid "Producer Email Address"
 msgstr "Alamat Email Produser"
 
-#: ../../../plumi.content/plumi/content/content/plumivideo.py:108
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:67
+#: ../../../plumi.content/plumi/content/interfaces/plumivideo.py:56
 msgid "Producer Mailing Address"
 msgstr "Alamat Surat Produser"
 
@@ -368,29 +573,52 @@ msgid "Production"
 msgstr "Produksi"
 
 #. Default: "Production Company"
-#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:175
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:288
 msgid "Production Company"
 msgstr "Perusahaan Produksi"
 
-#: ../../../plumi.content/plumi/content/content/plumivideo.py:88
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:86
+#: ../../../plumi.content/plumi/content/interfaces/plumivideo.py:44
 msgid "Production Company Name"
 msgstr "Nama Perusahaan Produksi"
 
-#: ../../../plumi.content/plumi/content/content/plumivideo.py:98
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:77
+#: ../../../plumi.content/plumi/content/interfaces/plumivideo.py:50
 msgid "Project Name"
 msgstr "Nama Proyek"
 
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Promote to Draft"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Promotes your private item to a public draft."
+msgstr ""
+
 #: ../../../plumi.content/plumi/content/content/plumicallout.py:102
+#: ../../../plumi.content/plumi/content/interfaces/plumicallout.py:53
 msgid "Provide a date for when this callout will be closed."
 msgstr "Isikan tanggal kapan panggilan ini akan ditutup."
 
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Provides access to workflow history"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Public draft"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Publish"
+msgstr ""
+
 #. Default: "Publish Event"
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:47
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:46
 msgid "Publish Event"
 msgstr "Publikasikan Acara"
 
 #. Default: "Publish News"
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:52
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:51
 msgid "Publish News"
 msgstr "Publikasikan Berita"
 
@@ -399,12 +627,24 @@ msgstr "Publikasikan Berita"
 msgid "Publish Video"
 msgstr "Publikasikan Video"
 
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Published"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Publishing the item makes it visible to other users."
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Puts your item in a review queue, so it can be published on the site."
+msgstr ""
+
 #: ../../../plumi.app/plumi/app/vocabs.py:22
 msgid "Race"
 msgstr "Ras"
 
 #. Default: "Read more…"
-#: ../../../plumi.skin/plumi/skin/browser/templates/video_brain.pt:45
+#: ../../../plumi.skin/plumi/skin/browser/templates/featured.pt:106
 msgid "Read more&hellip;"
 msgstr "Baca lanjut &hellip;"
 
@@ -416,55 +656,92 @@ msgstr "Pengungsian / Migrasi"
 msgid "Religion"
 msgstr "Agama"
 
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Retract"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Reviewer features content"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Reviewer publishes content"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Reviewer sends content back for re-drafting"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Reviewer tasks"
+msgstr ""
+
 #: ../../../plumi.app/plumi/app/vocabs.py:50
 msgid "Screening"
 msgstr "Penyaringan"
 
-#: ../../../plumi.app/plumi/app/install.py:188
-msgid "South East Asia"
-msgstr "Asia Tenggara"
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Send back"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Sending the item back will return the item to the original author instead of publishing it. You should preferably include a reason for why it was not published."
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Submit for publication"
+msgstr ""
 
 #: ../../../plumi.app/plumi/app/vocabs.py:34
 msgid "Sustainability"
 msgstr "Keberlanjutan"
 
-#: ../../../plumi.content/plumi/content/content/plumivideo.py:134
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:219
+msgid "Tags"
+msgstr ""
+
+#: ../../../plumi.content/plumi/content/interfaces/plumivideo.py:70
 msgid "The Director of the video content"
 msgstr "Pengarah konten vieo"
 
-#: ../../../plumi.content/plumi/content/content/plumivideo.py:67
+#: ../../../plumi.content/plumi/content/interfaces/plumivideo.py:34
 msgid "The Distributor of the video content"
 msgstr "Penyalur konten video"
 
-#: ../../../plumi.content/plumi/content/content/plumivideo.py:146
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "The ID of the user who performed the last transition"
+msgstr ""
+
+#: ../../../plumi.content/plumi/content/interfaces/plumivideo.py:76
 msgid "The Producer of the video content"
 msgstr "Produser konten video"
 
-#: ../../../plumi.content/plumi/content/content/plumivideo.py:121
+#: ../../../plumi.content/plumi/content/interfaces/plumivideo.py:64
 msgid "The Producer's email address"
 msgstr "Alamat email produser"
 
-#: ../../../plumi.content/plumi/content/content/plumivideo.py:109
+#: ../../../plumi.content/plumi/content/interfaces/plumivideo.py:58
 msgid "The Producer's mailing address"
 msgstr "Alamat surat produser"
 
-#: ../../../plumi.content/plumi/content/content/plumivideo.py:173
+#: ../../../plumi.content/plumi/content/interfaces/plumivideo.py:88
 msgid "The associated country of origin of the video content"
 msgstr "Negara asal konten video"
 
-#: ../../../plumi.content/plumi/content/content/plumivideo.py:34
+#: ../../../plumi.content/plumi/content/interfaces/plumivideo.py:16
 msgid "The caption for the thumbnail image."
 msgstr "Judul untuk thumbnail gambar."
 
-#: ../../../plumi.content/plumi/content/content/plumivideo.py:45
+#: ../../../plumi.content/plumi/content/interfaces/plumivideo.py:22
 msgid "The date the video content was released."
 msgstr "Tanggal konten video diluncurkan."
 
-#: ../../../plumi.content/plumi/content/content/plumivideo.py:57
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:129
+#: ../../../plumi.content/plumi/content/interfaces/plumivideo.py:28
 msgid "The description of the video content"
 msgstr "Keterangan konten video"
 
-#: ../../../plumi.content/plumi/content/content/plumivideo.py:200
+#: ../../../plumi.content/plumi/content/interfaces/plumivideo.py:100
 msgid "The genre of the video"
 msgstr "Genre video"
 
@@ -484,81 +761,129 @@ msgstr "Teks untuk menjelaskan gambar"
 msgid "The text caption describing the image."
 msgstr "Teks untuk menjelaskan gambar."
 
-#: ../../../plumi.content/plumi/content/content/plumivideo.py:158
+#: ../../../plumi.content/plumi/content/interfaces/plumivideo.py:82
 msgid "The thumbnail image for the video content"
 msgstr "Gambar untuk konten video"
 
-#: ../../../plumi.content/plumi/content/content/plumivideo.py:218
+#: ../../../plumi.skin/plumi/skin/browser/video.py:159
+msgid "The transcoding failed."
+msgstr ""
+
+#: ../../../plumi.skin/plumi/skin/browser/video.py:161
+msgid "The transcoding has not started."
+msgstr ""
+
+#: ../../../plumi.skin/plumi/skin/browser/video.py:155
+msgid "The transcoding has worked successfully."
+msgstr ""
+
+#: ../../../plumi.skin/plumi/skin/browser/video.py:157
+msgid "The transcoding is in progress."
+msgstr ""
+
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:180
+#: ../../../plumi.content/plumi/content/interfaces/plumivideo.py:106
 msgid "The uploaded video file"
 msgstr "Berkas video yang diupload"
 
-#: ../../../plumi.content/plumi/content/content/plumivideo.py:186
+#: ../../../plumi.content/plumi/content/interfaces/plumivideo.py:94
 msgid "The video categories - select as many as applicable."
 msgstr "Kategori video - pilih sebanyak yang sesuai"
 
-#: ../../../plumi.content/plumi/content/content/plumivideo.py:77
+#: ../../../plumi.content/plumi/content/interfaces/plumivideo.py:40
 msgid "The website URL for the video content"
 msgstr "URL situs web untuk konten video"
 
-#: ../../../plumi.content/plumi/content/content/plumivideo.py:33
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:205
+#: ../../../plumi.content/plumi/content/interfaces/plumivideo.py:14
 msgid "Thumbnail Image description"
 msgstr "Keterangan Thumbnail Gambar"
 
-#. Default: "Transcode Status"
-#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:284
-msgid "Transcode Status"
-msgstr "Status Transcode"
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:161
+msgid "Topics"
+msgstr ""
 
 #: ../../../plumi.content/plumi/content/content/plumicallout.py:41
+#: ../../../plumi.content/plumi/content/interfaces/plumicallout.py:22
 msgid "Typically a callout has an associated location in a common format (i.e. City, State)"
 msgstr "Biasanya suatu pengumuman data lokasinya memiliki format standar (contoh, Kota, Propinsi)"
 
-#: ../../../plumi.content/plumi/content/content/plumivideo.py:185
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:190
+msgid "URL: <a href="${DYNAMIC_CONTENT}">${DYNAMIC_CONTENT}</a> <br />"
+msgstr ""
+
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/send_feedback_to_author.cpy:82
+msgid "Unable to send mail: ${exception}"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Under process by the moderation team."
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Unfeature"
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Unfeaturing the item removes it from the front page."
+msgstr ""
+
+#: ../../../plumi.content/plumi/content/interfaces/plumivideo.py:92
 msgid "Video Categories"
 msgstr "Kategori-kategori Video"
 
-#: ../../../plumi.content/plumi/content/content/plumivideo.py:217
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:179
+#: ../../../plumi.content/plumi/content/interfaces/plumivideo.py:104
 msgid "Video File"
 msgstr "Berkas Video"
 
-#: ../../../plumi.content/plumi/content/content/plumivideo.py:199
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:149
+#: ../../../plumi.content/plumi/content/interfaces/plumivideo.py:98
 msgid "Video Genre"
 msgstr "Genre Video"
 
-#: ../../../plumi.app/plumi/app/install.py:321
+#: ../../../plumi.app/plumi/app/install.py:296
 msgid "Video Genres"
 msgstr "Genre-genre Video"
 
-#: ../../../plumi.content/plumi/content/content/plumivideo.py:157
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:192
+#: ../../../plumi.content/plumi/content/interfaces/plumivideo.py:80
 msgid "Video Thumbnail"
 msgstr "Thumbnail video"
 
-#: ../../../plumi.app/plumi/app/install.py:359
+#: ../../../plumi.app/plumi/app/install.py:334
 msgid "Video Topics"
 msgstr "Topik Video"
 
 #. Default: "Video information"
-#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:116
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:229
 msgid "Video information"
 msgstr "Informasi Video"
 
 #. Default: "Videos best viewed on VLC player"
-#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:266
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:143
 msgid "Videos best viewed on VLC player"
 msgstr "Video ini lebih baik dimainkan dengan menggunakan VLC Player"
 
-#: ../../../plumi.app/plumi/app/install.py:210
+#: ../../../plumi.app/plumi/app/install.py:162
 msgid "Videos featured by the editorial team."
 msgstr "Video terpilih oleh tim editorial."
 
-#: ../../../plumi.app/plumi/app/install.py:184
-msgid "Vietnam"
-msgstr "Vietnam"
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Visible on the front page."
+msgstr ""
 
-#. Default: "View editorial policy"
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:43
-msgid "View editorial policy"
-msgstr "Lihat kebijakan editorial"
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Visible to everyone, but not approved by the reviewers."
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Visible to everyone, not editable by the owner."
+msgstr ""
+
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "Waiting to be reviewed, not editable by the owner."
+msgstr ""
 
 #: ../../../plumi.app/plumi/app/vocabs.py:18
 msgid "War / Peace"
@@ -569,22 +894,31 @@ msgid "Water"
 msgstr "Air"
 
 #: ../../../plumi.content/plumi/content/content/plumicallout.py:30
+#: ../../../plumi.content/plumi/content/interfaces/plumicallout.py:14
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/personalize_form.cpt:273
 msgid "Website Address"
 msgstr "Alamat Situsweb"
 
-#: ../../../plumi.content/plumi/content/content/plumivideo.py:76
+#: ../../../plumi.content/plumi/content/content/plumivideo.py:96
+#: ../../../plumi.content/plumi/content/interfaces/plumivideo.py:38
 msgid "Website URL"
 msgstr "URL Situsweb"
 
 #: ../../../plumi.content/plumi/content/content/plumicallout.py:31
+#: ../../../plumi.content/plumi/content/interfaces/plumicallout.py:16
 msgid "Website for more info about the callout"
 msgstr "Situsweb untuk keterangan lebih lengkap tentang pengumuman ini"
 
-#: ../../../plumi.app/plumi/app/install.py:172
+#: ../../../plumi.app/plumi/app/install.py:137
 msgid "West Papua"
 msgstr "Papua Barat"
 
+#: ../../../plumi.app/plumi/app/profiles/default/workflows/plumi_workflow/definition.xml
+msgid "When the previous transition was performed"
+msgstr ""
+
 #: ../../../plumi.content/plumi/content/content/plumicallout.py:52
+#: ../../../plumi.content/plumi/content/interfaces/plumicallout.py:35
 msgid "Will be shown in the call out listings, and the call out item itself. Image will be scaled to a sensible size."
 msgstr "Akan ditampilkan dalam daftar pengumuman. Gambar akan diubah ke dalam ukuran yang sewajarnya."
 
@@ -596,83 +930,153 @@ msgstr "Kerja"
 msgid "Workshop"
 msgstr "Lokakarya"
 
-#. Default: "If the automatically transcoded movie is corrupted, or poor quality etc. , you may like to "
-#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:295
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/personalize_form.cpt:430
+msgid "Your Preferred Media Formats"
+msgstr ""
+
+#: ../../../plumi.content/plumi/content/adapters.py:187
+msgid "Your contribution has been accepted for publishing on the site"
+msgstr ""
+
+#: ../../../plumi.content/plumi/content/adapters.py:223
+msgid "Your contribution has been rejected .."
+msgstr ""
+
+#: ../../../plumi.content/plumi/content/adapters.py:250
+msgid "Your contribution has been retracted .."
+msgstr ""
+
+#. Default: "If the automatically transcoded movie is corrupted, or poor quality etc., you may like to"
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:352
+#, fuzzy
 msgid "cancel_transcoding"
 msgstr "batalkan"
 
-#. Default: "turn off flowplayer and automatic transcoding."
-
-msgid "turn off flowplayer and automatic transcoding"
-msgstr "transcoding"
-
 #. Default: "Copy the following to embed the movie into another web page:"
-#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:229
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:92
 msgid "copy_embed_code"
 msgstr "Salin skrip berikut untuk menempelkan video ini ke situs web lain"
 
-#. Default: "There are currently no results for this search."
-#: ../../../plumi.skin/plumi/skin/browser/templates/video_listing.pt:24
-msgid "description_no_items_in_topic"
-msgstr "Tidak ditemukan hasil dalam pencarian ini"
+#. Default: "Note: If you do not remain logged in after leaving this page, it is because you need to ${enable_cookies} in your browser."
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:71
+msgid "description_enable_cookies_for_login"
+msgstr ""
+
+#. Default: "You can take fuller advantage of the features of this site if you enable javascript in your browser."
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:63
+msgid "description_javascript_advantage"
+msgstr ""
+
+#. Default: "Now that you have registered and logged in you'll notice that the site looks a little different. You can add videos, events, news, set up your members workspace or personalise your profile page. Take the time to have a look around the site and explore what you can do. Check out the <a href=\"${DYNAMIC_CONTENT}\">help and tutorials page</a> for more information."
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:28
+msgid "description_logged_in_explain"
+msgstr ""
+
+#. Default: "Full Description"
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:312
+msgid "full_description"
+msgstr ""
 
 #. Default: "Up one level"
-#: ../../../plumi.skin/plumi/skin/browser/templates/video_listing_view.pt:19
+#: ../../../plumi.skin/plumi/skin/browser/templates/video_listing_view.pt:16
 msgid "go_to_parent_url"
 msgstr "Ke atas nya"
 
+#. Default: "The URL for your external home page, if you have one."
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/personalize_form.cpt:275
+msgid "help_external_homepage"
+msgstr ""
+
+#. Default: "You can select multiple items by holding down the control or command key."
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/personalize_form.cpt:367
+msgid "help_multiple_items"
+msgstr ""
+
+#. Default: "All events from this author…"
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:366
+msgid "label_author_internal_events_page"
+msgstr ""
+
+#. Default: "All news from this author…"
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:338
+msgid "label_author_internal_news_page"
+msgstr ""
+
+#. Default: "All videos from this author…"
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:285
+msgid "label_author_internal_video_page"
+msgstr ""
+
+#. Default: "enable cookies"
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:72
+msgid "label_enable_cookies"
+msgstr ""
+
 #. Default: "more info"
-#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:151
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:264
 msgid "more info"
 msgstr "info selengkapnya"
 
 #. Default: "This item does not have any body text, click the edit tab to change it."
-#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:35
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_callout_view.pt:102
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:53
 msgid "no_body_text"
 msgstr "Item ini punya badan teks, klik pada tab ubah untuk mengubahnya"
 
 #. Default: "Looking for content for a DVD compilation, screening, film festival or crew for a production? Let people know about it by adding a call-out."
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:58
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:57
 msgid "publish_callout_blurb"
-msgstr "Anda mencari kompilasi DVD, pemutaran film, festival film atau kru untuk produksi film? Sampaikan ke semua orang tentang hal itu dengan menambahkan pengumuman"
+msgstr "Pengumuman! Anda mencari kompilasi DVD, pemutaran film, festival film atau kru untuk produksi film? Sampaikan ke semua orang tentang hal itu dengan menambahkan pengumuman"
 
 #. Default: "List your events such as screenings, film festivals or workshops here."
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:48
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:47
 msgid "publish_event_blurb"
-msgstr "Daftarkan agenda anda semisal pemutaran film, festival film atau lokakarya disini."
+msgstr "Publikasikan Acara Daftarkan agenda anda semisal pemutaran film, festival film atau lokakarya disini."
 
 #. Default: "Tell us news about your past and future productions and promote your work."
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:53
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:52
 msgid "publish_news_blurb"
 msgstr "Sampaikan semua berita tentang produksi anda sebelumnya atau yang akan datang dan promosikan karya anda."
 
 #. Default: "Share your productions by uploading video to ${site_name}. Videos will be automatically submitted for publishing approval."
 #: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:40
 msgid "publish_video_blurb"
-msgstr "Berbagi produk anda dengan mengunggah video ke ${site_name}. Video-video akan didaftar secara otomatis untuk persetujuan publikasi."
+msgstr ""
 
-#. Default: "You may like to try to <a href=\"${DYNAMIC_CONTENT}\">re-start transcoding.</a>"
-#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:289
+#. Default: "You may like to try to"
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:343
+#, fuzzy
 msgid "restart_transcoding"
 msgstr "Cobalah untuk"
 
-
-#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:289
-msgid "re-start transcoding"
-msgstr "mengulangi transcoding."
-
 #. Default: "View larger image"
-#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:218
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:74
 msgid "thumbnail_click_to_enlarge"
 msgstr "Lihat gambar yang lebih besar"
 
 #. Default: "RSS2 Syndication"
-#: ../../../plumi.skin/plumi/skin/browser/templates/featured.pt:23
+#: ../../../plumi.skin/plumi/skin/browser/templates/featured.pt:24
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:274
 msgid "title"
 msgstr "Sindikasi RSS2"
 
+#. Default: "Transcode Status"
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:340
+msgid "transcode_status"
+msgstr ""
+
+#. Default: "Transcoding"
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:335
+msgid "transcoding"
+msgstr ""
+
+#. Default: "View editorial policy"
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:43
+msgid "view_editorial_policy"
+msgstr "Lihat kebijakan editorial"
+
 #. Default: "write the producer"
-#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:142
+#: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:255
 msgid "write the producer"
 msgstr "tuliskan produsernya"
 
