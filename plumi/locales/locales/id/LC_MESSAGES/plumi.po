@@ -8,10 +8,10 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Language-Code: id\n"
-"Language-Name: Indonesian\n"
-"Preferred-Encodings: utf-8 latin1\n"
+"Language-Name: Bahasa Indonesia\n"
+"Preferred-Encodings: utf-8\n"
 "Domain: plumi\n"
 "X-Poedit-Language: Indonesian\n"
 "X-Poedit-Country: INDONESIA\n"
@@ -809,7 +809,7 @@ msgid "Typically a callout has an associated location in a common format (i.e. C
 msgstr "Biasanya suatu pengumuman data lokasinya memiliki format standar (contoh, Kota, Propinsi)"
 
 #: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:190
-msgid "URL: <a href="${DYNAMIC_CONTENT}">${DYNAMIC_CONTENT}</a> <br />"
+msgid "URL: <a href=\"${DYNAMIC_CONTENT}\">${DYNAMIC_CONTENT}</a> <br />"
 msgstr ""
 
 #: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/send_feedback_to_author.cpy:82
@@ -948,7 +948,6 @@ msgstr ""
 
 #. Default: "If the automatically transcoded movie is corrupted, or poor quality etc., you may like to"
 #: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:352
-#, fuzzy
 msgid "cancel_transcoding"
 msgstr "batalkan"
 
@@ -1041,11 +1040,10 @@ msgstr "Sampaikan semua berita tentang produksi anda sebelumnya atau yang akan d
 #. Default: "Share your productions by uploading video to ${site_name}. Videos will be automatically submitted for publishing approval."
 #: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:40
 msgid "publish_video_blurb"
-msgstr ""
+msgstr "Berbagi produk anda dengan mengunggah video ke ${site_name}. Video-video akan didaftar secara otomatis untuk persetujuan publikasi. Jika anda memiliki file video yang besar atau koneksi internet yang tak memadai, anda dapat menggunakan sistem <a href=\"http://en.flossmanuals.net/Plumi/UploadingViaFTP\">FTP untuk menggunggah video anda</a>."
 
 #. Default: "You may like to try to"
 #: ../../../plumi.skin/plumi/skin/browser/templates/plumi_video_view.pt:343
-#, fuzzy
 msgid "restart_transcoding"
 msgstr "Cobalah untuk"
 
