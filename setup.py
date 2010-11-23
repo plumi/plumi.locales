@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '0.4'
+version = '4.0'
 
 def read(*rnames):
     return open(os.path.join(os.path.dirname(__file__), *rnames)).read()
@@ -23,7 +23,7 @@ long_description = (
 
 setup(name='plumi.locales',
       version=version,
-      description="Locales for Plumi 3.1",
+      description="Locales for Plumi 4.x",
       long_description=long_description, 
       # Get more strings from http://www.python.org/pypi?%3Aaction=list_classifiers
       classifiers=[
