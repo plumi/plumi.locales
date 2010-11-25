@@ -1,10 +1,12 @@
+4.0.1 (2010-11-25)
+==================
+
+- Fix po file parse error [dimo]
+
 4.0 (2010-11-23)
 ================
 
-Release for Plumi 4.0beta. [Dimitris Moraitis]
-
 - Rebuild pot and po files using i18ndude [dimo]
-
 
 0.4 (2010-08-09)
 ================

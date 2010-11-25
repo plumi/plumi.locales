@@ -1693,10 +1693,6 @@ msgstr ""
 msgid "Typically a callout has an associated location in a common format (i.e. City, State)"
 msgstr ""
 
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:196
-msgid "URL: <a href="${DYNAMIC_CONTENT}">${DYNAMIC_CONTENT}</a> <br />"
-msgstr ""
-
 #: ../../../plumi.app/plumi/app/vocabs.py:229
 msgid "Uganda"
 msgstr ""
