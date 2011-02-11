@@ -1,6 +1,9 @@
-4.1 RC (2011-02-11)
-===================
-- Added brazilian/portuguese translation
+4.1rc1 (2011-02-11)
+====================
+
+Release for Plumi 4.1rc1
+ 
+- Added brazilian/portuguese translation [clopy]
 
 4.0.1 (2010-11-25)
 ==================
