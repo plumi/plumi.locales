@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2011-05-05 17:29+0000\n"
+"POT-Creation-Date: 2011-05-05 18:45+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -45,10 +45,6 @@ msgstr ""
 msgid "----------------"
 msgstr ""
 
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:212
-msgid "<div id="other-homepages-title">Social Networking and Blogs</div> <div id="other-homepages"> <a href="${DYNAMIC_CONTENT}" class="${DYNAMIC_CONTENT}">${DYNAMIC_CONTENT}</a> </div> <br />"
-msgstr ""
-
 #: ../../../plumi.content/plumi/content/subscribers.py:189
 msgid "A comment has been added on "
 msgstr ""
@@ -70,11 +66,11 @@ msgstr ""
 msgid "Activities"
 msgstr ""
 
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:266
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:265
 msgid "Activities :"
 msgstr ""
 
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:223
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:222
 msgid "Address :"
 msgstr ""
 
@@ -647,7 +643,7 @@ msgstr ""
 msgid "Genre Interests"
 msgstr ""
 
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:253
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:252
 msgid "Genre Interests :"
 msgstr ""
 
@@ -888,21 +884,21 @@ msgstr ""
 msgid "Lao People's Democratic Republic"
 msgstr ""
 
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:340
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:339
 msgid "Latest Callouts"
 msgstr ""
 
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:393
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:392
 msgid "Latest Events"
 msgstr ""
 
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:366
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:365
 msgid "Latest News"
 msgstr ""
 
 #: ../../../plumi.app/plumi/app/install.py:103
 #: ../../../plumi.content/plumi/content/browser/templates/featured.pt:221
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:317
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:316
 msgid "Latest Videos"
 msgstr ""
 
@@ -1041,7 +1037,7 @@ msgstr ""
 msgid "Media"
 msgstr ""
 
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:278
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:277
 msgid "Media Formats :"
 msgstr ""
 
@@ -1261,7 +1257,7 @@ msgstr ""
 msgid "Philippines "
 msgstr ""
 
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:233
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:232
 msgid "Phone :"
 msgstr ""
 
@@ -1302,7 +1298,7 @@ msgstr ""
 msgid "Portugal"
 msgstr ""
 
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:243
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:242
 msgid "Post Code :"
 msgstr ""
 
@@ -1993,10 +1989,6 @@ msgstr ""
 msgid "Website for more info about the callout"
 msgstr ""
 
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:198
-msgid "Website: <a href="${DYNAMIC_CONTENT}">${DYNAMIC_CONTENT}</a> <p />"
-msgstr ""
-
 #: ../../../em.taxonomies/em/taxonomies/vocabs.py:14
 msgid "West Papua"
 msgstr ""
@@ -2102,22 +2094,22 @@ msgid "help_multiple_items"
 msgstr ""
 
 #. Default: "All callouts from this author…"
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:352
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:351
 msgid "label_author_internal_callout_page"
 msgstr ""
 
 #. Default: "All events from this author…"
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:404
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:403
 msgid "label_author_internal_events_page"
 msgstr ""
 
 #. Default: "All news from this author…"
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:378
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:377
 msgid "label_author_internal_news_page"
 msgstr ""
 
 #. Default: "All videos from this author…"
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:326
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:325
 msgid "label_author_internal_video_page"
 msgstr ""
 
@@ -2176,6 +2168,11 @@ msgstr ""
 msgid "slow_connection_low_res"
 msgstr ""
 
+#. Default: "Social Networking and Blogs"
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:208
+msgid "social_networking_blogs"
+msgstr ""
+
 #. Default: "View larger image"
 #: ../../../plumi.content/plumi/content/browser/templates/plumi_embed_view.pt:53
 #: ../../../plumi.content/plumi/content/browser/templates/plumi_video_view.pt:87
@@ -2184,7 +2181,7 @@ msgstr ""
 
 #. Default: "RSS2 Syndication"
 #: ../../../plumi.content/plumi/content/browser/templates/featured.pt:24
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:315
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:314
 msgid "title"
 msgstr ""
 
@@ -2201,6 +2198,11 @@ msgstr ""
 #. Default: "View editorial policy"
 #: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:44
 msgid "view_editorial_policy"
+msgstr ""
+
+#. Default: "Website:"
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:196
+msgid "website"
 msgstr ""
 
 #: ../../../plumi.content/plumi/content/browser/templates/plumi_video_view.pt:300

@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: plumi\n"
-"POT-Creation-Date: 2011-05-05 17:29+0000\n"
+"POT-Creation-Date: 2011-05-05 18:45+0000\n"
 "PO-Revision-Date: 2011-01-22 00:25-0300\n"
 "Last-Translator: Luciano De Fázio <lucianodefazio@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <LL@li.org>\n"
@@ -45,10 +45,6 @@ msgstr ""
 msgid "----------------"
 msgstr ""
 
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:212
-msgid "<div id="other-homepages-title">Social Networking and Blogs</div> <div id="other-homepages"> <a href="${DYNAMIC_CONTENT}" class="${DYNAMIC_CONTENT}">${DYNAMIC_CONTENT}</a> </div> <br />"
-msgstr ""
-
 #: ../../../plumi.content/plumi/content/subscribers.py:189
 msgid "A comment has been added on "
 msgstr "Um comentário foi adicionado em"
@@ -70,11 +66,11 @@ msgstr ""
 msgid "Activities"
 msgstr "Atividades"
 
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:266
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:265
 msgid "Activities :"
 msgstr "Atividades:"
 
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:223
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:222
 msgid "Address :"
 msgstr "Endereço:"
 
@@ -652,7 +648,7 @@ msgstr ""
 msgid "Genre Interests"
 msgstr "Gêneros de Interesse"
 
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:253
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:252
 msgid "Genre Interests :"
 msgstr "Gêneros de Interesse"
 
@@ -893,21 +889,21 @@ msgstr "Quirguistão"
 msgid "Lao People's Democratic Republic"
 msgstr "República Democrática Popular do Laos"
 
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:340
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:339
 msgid "Latest Callouts"
 msgstr "Últimas Chamadas"
 
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:393
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:392
 msgid "Latest Events"
 msgstr "Últimos Eventos"
 
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:366
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:365
 msgid "Latest News"
 msgstr "Últimas Notícias"
 
 #: ../../../plumi.app/plumi/app/install.py:103
 #: ../../../plumi.content/plumi/content/browser/templates/featured.pt:221
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:317
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:316
 msgid "Latest Videos"
 msgstr "Últimos Vídeos"
 
@@ -1046,7 +1042,7 @@ msgstr "Mayotte"
 msgid "Media"
 msgstr ""
 
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:278
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:277
 msgid "Media Formats :"
 msgstr "Formatos de Mídia:"
 
@@ -1266,7 +1262,7 @@ msgstr "Peru"
 msgid "Philippines "
 msgstr "Filipinas"
 
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:233
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:232
 msgid "Phone :"
 msgstr "Telefone:"
 
@@ -1307,7 +1303,7 @@ msgstr ""
 msgid "Portugal"
 msgstr "Portugal"
 
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:243
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:242
 msgid "Post Code :"
 msgstr "Código Postal:"
 
@@ -1998,10 +1994,6 @@ msgstr "URL do Website"
 msgid "Website for more info about the callout"
 msgstr "Website para mais informações sobre a chamada"
 
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:198
-msgid "Website: <a href="${DYNAMIC_CONTENT}">${DYNAMIC_CONTENT}</a> <p />"
-msgstr ""
-
 #: ../../../em.taxonomies/em/taxonomies/vocabs.py:14
 msgid "West Papua"
 msgstr ""
@@ -2107,22 +2099,22 @@ msgid "help_multiple_items"
 msgstr "Você pode selecionar vários itens, mantendo pressionada a tecla Control ou Command."
 
 #. Default: "All callouts from this author…"
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:352
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:351
 msgid "label_author_internal_callout_page"
 msgstr "Todas as chamadas deste autor ..."
 
 #. Default: "All events from this author…"
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:404
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:403
 msgid "label_author_internal_events_page"
 msgstr "Todos os eventos deste autor..."
 
 #. Default: "All news from this author…"
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:378
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:377
 msgid "label_author_internal_news_page"
 msgstr "Todas as notícias deste autor..."
 
 #. Default: "All videos from this author…"
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:326
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:325
 msgid "label_author_internal_video_page"
 msgstr "Todos os vídeos deste autor..."
 
@@ -2181,6 +2173,11 @@ msgstr "Talvez você gostaria de"
 msgid "slow_connection_low_res"
 msgstr ""
 
+#. Default: "Social Networking and Blogs"
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:208
+msgid "social_networking_blogs"
+msgstr ""
+
 #. Default: "View larger image"
 #: ../../../plumi.content/plumi/content/browser/templates/plumi_embed_view.pt:53
 #: ../../../plumi.content/plumi/content/browser/templates/plumi_video_view.pt:87
@@ -2189,7 +2186,7 @@ msgstr "Visualizar em resolução superior"
 
 #. Default: "RSS2 Syndication"
 #: ../../../plumi.content/plumi/content/browser/templates/featured.pt:24
-#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:315
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:314
 msgid "title"
 msgstr "RSS2 Syndication"
 
@@ -2207,6 +2204,11 @@ msgstr "Transcodificando"
 #: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/publish.pt:44
 msgid "view_editorial_policy"
 msgstr "Leia a Política de Editorial"
+
+#. Default: "Website:"
+#: ../../../plumi.skin/plumi/skin/skins/plumi_skin_custom_templates/author.cpt:196
+msgid "website"
+msgstr ""
 
 #: ../../../plumi.content/plumi/content/browser/templates/plumi_video_view.pt:300
 msgid "write the producer"
