@@ -1,3 +1,11 @@
+4.2 (2011-05-10)
+================
+
+Release for Plumi 4.2
+
+- Add a few Indonesian strings [dimo, yerry]
+- Update po files [dimo]
+
 4.1 (2011-03-02)
 ================
 
