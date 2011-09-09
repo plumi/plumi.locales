@@ -1,0 +1,3 @@
+*.py?
+*.mo
+plumi.locales.egg-info/
