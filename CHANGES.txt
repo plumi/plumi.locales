@@ -1,3 +1,10 @@
+4.3 (2011-12-10)
+================
+
+Release for Plumi 4.3
+
+- Add Italian translation [giacomos]
+
 4.2 (2011-05-10)
 ================
 
