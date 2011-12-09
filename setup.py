@@ -24,7 +24,7 @@ long_description = (
 setup(name='plumi.locales',
       version=version,
       description="Locales for Plumi 4.x",
-      long_description=long_description, 
+      long_description=long_description,
       # Get more strings from http://www.python.org/pypi?%3Aaction=list_classifiers
       classifiers=[
         "Framework :: Plone",
@@ -34,7 +34,7 @@ setup(name='plumi.locales',
       keywords='plone plumi translation locales internationalization i18n l10n',
       author='Andy Nicholson',
       author_email='andy@infiniterecursion.com.au',
-      url='https://svn.plone.org/svn/collective/plumi.locales/trunk',
+      url='https://github.com/plumi/plumi.locales',
       license='GPL',
       packages=find_packages(exclude=['ez_setup']),
       namespace_packages=['plumi'],
