@@ -1,9 +1,10 @@
-4.3 (2011-12-10)
+4.3 (2011-12-18)
 ================
 
 Release for Plumi 4.3
 
 - Add Italian translation [giacomos]
+- Moved repo to github [garbas]
 
 4.2 (2011-05-10)
 ================
