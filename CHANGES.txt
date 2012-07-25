@@ -1,3 +1,10 @@
+4.4 (2012-07-25)
+================
+
+Release for Plumi 4.4
+
+- add .mo files, to correct permission issues [mgogoulos]
+
 4.3 (2011-12-18)
 ================
 
